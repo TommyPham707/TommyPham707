@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Tommy Pham — Aspiring Data Analyst</title>
+<title>Tommy Pham | Aspiring Data Analyst</title>
 <style>
   @import url('https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&family=IBM+Plex+Mono:wght@400;500;600&display=swap');
 
@@ -347,6 +347,43 @@
     font-size: 12px;
     color: var(--ink-soft);
   }
+
+  .hero-top {
+    display: flex;
+    gap: 36px;
+    align-items: flex-start;
+  }
+
+  .hero-photo {
+    flex: none;
+    width: 132px;
+    height: 132px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 1px solid var(--paper-line);
+  }
+
+  .hero-text { flex: 1; }
+
+  .bio {
+    margin-top: 28px;
+    padding-top: 24px;
+    border-top: 1px solid var(--paper-line);
+    max-width: 68ch;
+  }
+
+  .bio p {
+    color: var(--ink-soft);
+    font-size: 16px;
+    margin-top: 12px;
+  }
+
+  .bio p:first-child { margin-top: 0; }
+
+  @media (max-width: 640px) {
+    .hero-top { flex-direction: column; align-items: center; text-align: center; }
+    .hero-text { width: 100%; }
+  }
 </style>
 </head>
 <body>
@@ -360,13 +397,48 @@
 
   <header class="hero">
     <div class="wrap">
-      <h1>Tommy Pham</h1>
-      <div class="role">Aspiring Data Analyst</div>
-      <p class="pitch">
-        I turn messy, real-world data into decisions — cleaning it in Excel,
-        querying it in SQL, exploring it in Python, and putting it in front
-        of people through Power BI dashboards they can actually use.
-      </p>
+      <div class="hero-top">
+        <img class="hero-photo" src="images/profile.jpg" alt="Tommy Pham">
+        <div class="hero-text">
+          <h1>Tommy Pham</h1>
+          <div class="role">Aspiring Data Analyst</div>
+          <p class="pitch">
+            I turn messy, real-world data into decisions. Cleaning it in
+            Excel, querying it in SQL, exploring it in Python, and putting
+            it in front of people through Power BI dashboards they can
+            actually use.
+          </p>
+        </div>
+      </div>
+
+      <div class="bio">
+        <p>
+          I hold a BBA in Business Analytics and Information Systems from
+          Texas A&amp;M University Corpus Christi, and I've spent my time
+          since then applying that training where it actually matters:
+          finding the number a stakeholder needs, checking it against a
+          second source before trusting it, and explaining what it means in
+          plain language rather than a wall of tables.
+        </p>
+        <p>
+          As a Data Analyst Intern with the City of Corpus Christi, I
+          handled invoice processing, data reconciliation, and monthly
+          reporting for real budget decisions, not practice data. Before
+          that, as a Durability Test Driver at Link Engineering, I
+          redesigned how test data was logged, which meant fewer failed
+          test runs and performance numbers the engineering team could
+          actually rely on. Both roles taught me the same lesson: the
+          analysis is only as good as the discipline behind the data
+          feeding it.
+        </p>
+        <p>
+          That's the standard I hold my own projects to as well, cleaning
+          and cross-checking a dataset across every tool it touches so that
+          the final number on a dashboard is one a stakeholder can act on
+          with confidence.
+        </p>
+      </div>
+
       <div class="hero-stats">
         <div class="stat">
           <div class="n">4</div>
@@ -428,7 +500,7 @@
           <h3>Car Market Analysis</h3>
           <p>
             A single dataset of 1,200+ global vehicles, taken from raw and
-            inconsistent through four tools in sequence — answering three
+            inconsistent through four tools in sequence, answering three
             questions about market segmentation, performance, and value.
           </p>
         </div>
@@ -461,7 +533,7 @@
         </div>
 
         <div class="chart-block">
-          <div class="cap">PRICE DISTRIBUTION — WHY MEDIAN BEATS AVERAGE HERE</div>
+          <div class="cap">PRICE DISTRIBUTION: WHY MEDIAN BEATS AVERAGE HERE</div>
           <div class="bars">
             <span style="height:16%"></span>
             <span style="height:48%"></span>
@@ -490,8 +562,9 @@
           <h4>KEY FINDINGS</h4>
           <div class="finding">
             <div class="metric">$139.6K vs $42.6K</div>
-            <p>The dataset's average price is more than 3x its median — a
-            handful of hypercars skew every mean-based comparison.</p>
+            <p>The dataset's average price is more than 3x its median,
+            because a handful of hypercars skew every mean-based
+            comparison.</p>
           </div>
           <div class="finding">
             <div class="metric">~2x</div>
@@ -500,8 +573,8 @@
           </div>
           <div class="finding">
             <div class="metric">1 error found</div>
-            <p>A McLaren mislabeled as BMW survived Excel, SQL, and Python
-            — caught only once brand-level results stopped lining up in
+            <p>A McLaren mislabeled as BMW survived Excel, SQL, and Python,
+            caught only once brand-level results stopped lining up in
             Power BI.</p>
           </div>
         </div>
@@ -517,11 +590,11 @@
           </figure>
           <figure>
             <img src="images/cars-project/dashboard-overview.png" alt="Power BI overview dashboard">
-            <figcaption>Power BI — Overview page</figcaption>
+            <figcaption>Power BI: Overview page</figcaption>
           </figure>
           <figure>
             <img src="images/cars-project/dashboard-market.png" alt="Power BI market landscape dashboard">
-            <figcaption>Power BI — Market Landscape page</figcaption>
+            <figcaption>Power BI: Market Landscape page</figcaption>
           </figure>
         </div>
 
