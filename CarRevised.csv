@@ -1,0 +1,1203 @@
+﻿Company Names,Cars Names,Engines,CC/Battery Capacity,Horse Power Final,Total Speed,Performance(0 - 100 )KM/H,Car Prices Final,Fuel Types,Seats,Torque Final
+Bugatti,La Voiture Noire,8.0L Quad-Turbo W16,7993,1500,420,2.5,18000000,Petrol,2,1600
+Bugatti,Centodieci,8.0L Quad-Turbo W16,7993,1600,380,2.4,9000000,Petrol,2,1600
+Mazda,787B (Race Car),2.6L Wankel Rotary Engine,2620,700,320,3.5,6000000,Petrol,1,500
+Bugatti,Divo,8.0L Quad-Turbo W16,7993,1500,380,2.4,5800000,Petrol,2,1600
+Bugatti,Mistral,8.0L Quad-Turbo W16,7993,1600,420,2.4,5000000,Petrol,2,1600
+Bugatti,Bolide,8.0L Quad-Turbo W16,7993,1850,500,2.2,4500000,Petrol,2,1600
+Lamborghini,VENENO ROADSTER,V12,6498,750,356,2.9,4500000,Petrol,2,690
+Bugatti,Chiron Super Sport,8.0L Quad-Turbo W16,7993,1600,490,2.4,3500000,Petrol,2,1600
+Bugatti,Chiron Pur Sport,8.0L Quad-Turbo W16,7993,1500,350,2.3,3300000,Petrol,2,1600
+Bugatti,Chiron Sport,8.0L Quad-Turbo W16,7993,1500,420,2.4,3300000,Petrol,2,1600
+Bugatti,Chiron Noire,8.0L Quad-Turbo W16,7993,1500,420,2.5,3300000,Petrol,2,1600
+Aston Martin,VALKYRIE,V12,6496,1160,402,2.5,3200000,Hybrid,2,900
+Bugatti,Chiron,8.0L Quad-Turbo W16,7993,1500,420,2.5,3000000,Petrol,2,1600
+Lamborghini,SIAN,V12,6498,819,350,2.8,2800000,Hybrid,2,720
+Ferrari,MONZA SP2,V12,6496,789,340,2.9,1700000,Petrol,2,719
+Aston Martin,VICTOR,V12,5204,836,320,2.8,1300000,Petrol,2,821
+Aston Martin,LAGONDA TARAF,V12,5935,540,314,4.2,1100000,Petrol,4,630
+Aston Martin,VALHALLA,V8,3996,1000,362,2.5,1100000,Hybrid,2,1000
+Ferrari,SF90 STRADALE,V8,3990,963,340,2.5,1100000,Plug-in Hybrid,2,800
+Nissan,GT-R50 by Italdesign,3.8L Twin-Turbo V6,3799,,315,2.5,1100000,Petrol,2,780
+Nissan,R390 GT1 Road Car,3.5L Twin-Turbo V8,3495,,354,3.3,1000000,Petrol,2,637
+Porsche,911 RSR (Motorsport Edition),4.2L Naturally Aspirated Flat-6,4194,515,296,3.1,750000,Petrol,1,480
+Lamborghini,AVENTADOR SVJ XAGO,V12,6498,759,350,2.9,603000,Petrol,2,720
+Nissan,GT-R LM NISMO,3.0L Twin-Turbo V6 Hybrid,3000,,320,3,600000,Hybrid,2,650
+Lamborghini,AVENTADOR SVJ ROADSTER,V12,6498,759,350,2.9,573000,Petrol,2,720
+Lamborghini,AVENTADOR LP 780-4 ULTIMATE ROADSTER,V12,6498,769,355,2.8,573000,Petrol,2,720
+Lamborghini,AVENTADOR ULTIMAE,V12,6498,769,355,2.8,545000,Petrol,2,720
+Lamborghini,AVENTADOR LP 780-4 ULTIMATE,V12,6498,769,355,2.8,545000,Petrol,2,720
+Lamborghini,AVENTADOR SVJ,V12,6498,759,350,2.8,518000,Petrol,2,720
+Rolls Royce,PHANTOM CELESTIAL,V12,6749,563,250,5.3,515000,Petrol,5,900
+Rolls Royce,PHANTOM EXTENDED,V12,6749,563,250,5.3,500000,Petrol,5,900
+Ford,GT,3.5L Twin-Turbo V6,3500,660,348,3,500000,Petrol,2,746
+McLaren,Mclaren 720s,V8,3994,710,341,2.9,499000,Petrol,2,770
+Rolls Royce,PHATOM ORCHID,V12,6749,563,250,5.3,495000,Petrol,5,900
+Lamborghini,AVENTADOR SV,V12,6498,740,350,2.8,493000,Petrol,2,690
+Rolls Royce,PHATOM TRANQUILITY,V12,6749,563,250,5.3,475000,Petrol,5,900
+Rolls Royce,PHANTOM,V12,6749,563,250,5.3,460000,Petrol,5,900
+Rolls Royce,PHANTOM COUPE,V12,6749,563,250,5.3,450000,Petrol,4,870
+Lamborghini,AVENTADOR ROADSTER,V12,6498,700,350,3,445000,Petrol,2,690
+Rolls Royce,DAWN BLACK BADGE ADAMAS,V12,6592,563,250,4.8,439000,Petrol,4,840
+Rolls Royce,CULLINAN RED DIAMOND,V12,6749,563,250,5.1,421000,Petrol,5,850
+Lamborghini,AVENTADOR S,V12,6498,740,350,2.9,421000,Petrol,2,690
+Rolls Royce,DAWN SILVER BULLET,V12,6592,563,250,4.8,418000,Petrol,4,840
+Rolls Royce,CULLINAN FUX ORANGE,V12,6749,563,250,5.1,401000,Petrol,5,850
+Rolls Royce,DAWN BLACK BADGE VOLANTE,V12,6592,563,250,4.8,398000,Petrol,4,840
+Rolls Royce,DAWN BLACK BADGE,V12,6592,624,250,4.8,390000,Petrol,4,870
+Rolls Royce,WRAITH LUMINARY,V12,6592,623,250,4.5,389000,Petrol,4,800
+Rolls Royce,CULLINAN BLACK BADGE SUV,V12,6749,563,250,5.1,381000,Petrol,5,850
+Rolls Royce,DAWN CONVERTIBLE,V12,6592,624,250,4.9,380000,Petrol,4,870
+Rolls Royce,GHOST MYSORE,V12,6749,563,250,4.9,375000,Petrol,5,900
+Rolls Royce,GHOST EXTENDED,V12,6592,591,250,4.8,370000,Petrol,5,850
+Rolls Royce,WRAITH KRYPTOS,V12,6592,623,250,4.5,369000,Petrol,4,800
+Rolls Royce,DAWN,V12,6592,624,250,4.9,360000,Petrol,4,870
+Rolls Royce,WRAITH BLACK BADGE,V12,6592,624,250,4.3,360000,Petrol,4,870
+Rolls Royce,GHOST AZURE,V12,6749,563,250,4.9,355000,Petrol,5,900
+Rolls Royce,CULLINAN BLACK BADGE,V12,6749,563,250,5.1,350000,Petrol,5,850
+Ferrari,812 GTS,V12,6496,789,340,2.9,350000,Petrol,2,718
+Rolls Royce,WRAITH EAGLE VIII,V12,6592,623,250,4.5,349000,Petrol,4,800
+Lamborghini,HURACAN STO EVO,V10,5204,640,325,3,342000,Petrol,2,565
+Rolls Royce,GHOST COUPE,V12,6592,591,250,4.8,340000,Petrol,4,850
+Rolls Royce,GHOST ZENITH,V12,6749,563,250,4.9,335000,Petrol,5,900
+Rolls Royce,GHOST,V12,6592,591,250,4.8,332000,Petrol,5,850
+Rolls Royce,WRAITH,V12,6592,624,250,4.4,330000,Petrol,4,870
+Rolls Royce,WRAITH COUPE,V12,6592,624,250,4.4,330000,Petrol,4,870
+Lamborghini,HURACAN STO,V10,5204,640,325,3,327000,Petrol,2,565
+Rolls Royce,CULLINAN,V12,6749,563,250,5.2,325000,Petrol,5,850
+Rolls Royce,CULLINAN SUV,V12,6749,563,250,5.2,320000,Petrol,5,850
+Aston Martin,DBS SUPERLEGGERA,V12,5204,715,340,3.4,316000,Petrol,2,900
+Bentley,Continental GT Azure,V8,3996,550,318,4,311000,Petrol,4,900
+Lamborghini,HURACAN  PERFORMANTE SPYDER,V10,5204,640,325,3.1,308000,Petrol,2,600
+Aston Martin,VANQUISH,V12,5935,580,324,3.6,294000,Petrol,2,630
+Porsche,911 GT2 RS,3.8L Twin-Turbo Flat-6,3745,700,340,2.8,293200,Petrol,2,750
+Porsche,Panamera Turbo S Exclusive Series,4.0L Twin-Turbo V8,3996,570,310,3.8,290000,Petrol,4,800
+Lamborghini,HURACAN SPYDER,V10,5204,610,325,3.4,287000,Petrol,2,600
+Lamborghini,HURACAN EVO SPYDER,V10,5204,640,325,3.1,287000,Petrol,2,600
+Ferrari,F8 TRIBUTO,V8,3900,710,340,2.9,280000,Petrol,2,770
+Ferrari,F8 SPIDER,V8,3900,710,340,2.9,280000,Petrol,2,770
+Lamborghini,HURACAN PERFORMANTE,V10,5204,640,325,2.9,274000,Petrol,2,600
+Lamborghini,HURACAN EVO RWD SPYDER,V10,5204,610,325,3.3,273000,Petrol,2,600
+Lamborghini,URUS S,V8,3996,671,305,3.3,263000,Petrol,5,850
+Lamborghini,HURACAN EVO,V10,5204,640,325,2.9,261000,Petrol,2,600
+Porsche,911 Turbo Exclusive Series,3.8L Twin-Turbo Flat-6,3745,607,330,2.9,258000,Petrol,4,750
+Lamborghini,HURACAN EVO RWD,V10,5204,610,325,3.3,258000,Petrol,2,560
+Audi,AUDI R8 Gt,V10,5204,602,320,3.6,253290,Petrol,2,560
+Lamborghini,URUS GRAPHITE CAPSULE,V8,3998,641,305,3.3,253000,Petrol,5,850
+Porsche,911 GT3 Cup,4.0L Naturally Aspirated Flat-6,3996,510,290,3.4,245000,Petrol,1,470
+Lamborghini,URUS PERFORMANTE,V8,3996,641,305,3.3,242000,Petrol,5,850
+Porsche,911 GT3 RS,4.0L Naturally Aspirated Flat-6,3996,518,296,3.2,241300,Petrol,2,465
+Aston Martin,RAPIDE AMR,V12,5935,580,328,4.2,240000,Petrol,4,630
+Ferrari,ROMA SPIDER,V8,3900,612,320,3.4,240000,Petrol,4,760
+Porsche,911 Dakar Sport,3.0L Twin-Turbo Flat-6,2981,473,240,3.5,233000,Petrol,4,570
+Porsche,911 Turbo S,3.8L Twin-Turbo Flat-6,3745,640,330,2.6,230400,Petrol,4,800
+Ferrari,ROMA,V8,3900,612,320,3.4,230000,Petrol,4,760
+Porsche,911 GT3 RS Clubsport,4.0L Naturally Aspirated Flat-6,3996,525,296,3.2,223800,Petrol,2,465
+Porsche,911 Dakar Limited Edition,3.0L Twin-Turbo Flat-6,2981,473,240,3.4,222000,Petrol,4,570
+Porsche,911 GT4 RS,4.0L Naturally Aspirated Flat-6,3996,500,315,3.4,222000,Petrol,2,450
+Porsche,911 Dakar,3.0L Twin-Turbo Flat-6,2981,473,240,3.4,222000,Petrol,2,570
+Ferrari,PORTOFINO M,V8,3900,612,320,3.2,220000,Petrol,4,760
+Nissan,GT-R NISMO,3.8L Twin-Turbo V6,3799,,330,2.9,220000,Petrol,2,652
+Nissan,GT-R Egoist,3.8L Twin-Turbo V6,3799,,315,2.8,220000,Petrol,2,637
+Lamborghini,URUS ,V8,3996,641,305,3.6,211000,Petrol,5,850
+Ferrari,PORTOFINO,V8,3900,592,320,3.2,210000,Petrol,4,760
+Aston Martin,DB11,V12,5204,600,322,3.9,208000,Petrol,4,700
+Porsche,911 Turbo S Coupe,3.8L Twin-Turbo Flat-6,3745,640,330,2.7,207000,Petrol,4,800
+Porsche,Panamera Turbo S E-Hybrid Sport Turismo,4.0L Twin-Turbo V8 + Electric Motor,3996,690,315,3.2,200200,Hybrid,4,870
+Mercedes,BENZ MAYBACH S 680,V12,5980,630,250,4.7,200000,Petrol,5,1000
+Tesla,Roadster 2,Quad Electric Motors,,1288,402,1.9,200000,Electric,4,10000
+Porsche,911 Turbo,3.8L Twin-Turbo Flat-6,3745,572,320,2.7,197200,Petrol,4,750
+Audi,R8 V10 PLUS,V10,5204,610,330,3.2,194000,Petrol,2,560
+Aston Martin,VANTAGE F1,V8,3982,656,314,3.6,193440,Petrol,2,685
+Porsche,911 Turbo Cabriolet Lightweight,3.8L Twin-Turbo Flat-6,3745,572,318,3,191300,Petrol,4,750
+Porsche,Panamera Turbo S E-Hybrid,4.0L V8 + Electric Motor,,,315,3.2,190000,Petrol/Hybrid,4,870
+Porsche,Taycan Turbo S Cross Turismo,Dual Electric Motors,,750,260,2.9,190000,Electric,4,1050
+Aston Martin,DBX,V8,3996,542,291,4.5,189000,Petrol,5,700
+Porsche,Taycan Turbo S,Dual Electric Motors,,750,260,2.8,185000,Electric,4,1050
+Nissan,GT-R Black Edition,3.8L Twin-Turbo V6,3799,,330,2.8,185000,Petrol,2,652
+Porsche,911 Turbo Cabriolet,3.8L Twin-Turbo Flat-6,3745,572,320,2.9,184100,Petrol,4,750
+Porsche,Cayenne Coupe Turbo E-Hybrid,4.0L Twin-Turbo V8 + Electric Motor,3996,728,295,3.6,182900,Hybrid,4,950
+Porsche,Cayenne Turbo GT,4.0L Twin-Turbo V8,3996,631,300,3.3,182150,Petrol,4,850
+Porsche,Panamera Turbo S,4.0L V8 Twin Turbo,3996,,315,3.1,180000,Petrol,4,820
+Porsche,Panamera Turbo Executive,4.0L Twin-Turbo V8,3996,550,306,3.8,175200,Petrol,4,770
+Nissan,GT-R V-Spec,3.8L Twin-Turbo V6,3799,,330,2.8,175000,Petrol,2,652
+Toyota,CENTURY SUV,"3.5L,V6,PLUG IN HYBRID",3456,406,200,6,170000,Petrol,5,500
+Porsche,Cayenne Turbo S E-Hybrid,4.0L V8 + Electric Motor,,,295,3.6,170000,Petrol/Hybrid,5,900
+Porsche,911 GT3 Touring,4.0L Naturally Aspirated Flat-6,3996,502,318,3.9,170000,Petrol,2,470
+Porsche,Cayenne Turbo S E-Hybrid Coupe,4.0L Twin-Turbo V8 + Electric Motor,3996,670,295,3.6,167800,Hybrid,4,900
+Bmw,I8 ROADSTER,ELECTRIC MOTOR,,369,250,4.4,165000,Hybrid,2,570
+Porsche,911 GT3,4.0L Naturally Aspirated Flat-6,3996,502,318,3.4,161100,Petrol,2,469
+Mercedes, GT 63 S,V8,3982,630,250,3.2,161000,Petrol,4,900
+Volvo,Volvo FH16,16.1L I6 Turbo Diesel,16100,750,120,14.5,160000,Diesel,2,3500
+Porsche,911 Targa 4 GTS,3.0L Twin-Turbo Flat-6,2981,473,307,3.5,157300,Petrol,4,570
+Acura,NSX 3.5L Hybrid Coupe,Twin-Turbo V6 Hybrid,3493,537,307,2.9,157000,Hybrid,2,666
+Acura,NSX Carbon Edition,Twin-Turbo V6 Hybrid,3493,537,307,2.9,157000,Hybrid,2,666
+Acura,NSX Type S,Twin-Turbo V6 Hybrid,,600,307,2.9,157000,Hybrid,2,666
+Porsche,Taycan Turbo,Dual Electric Motors,,670,260,3.2,150900,Electric,4,850
+Acura,NSX GT3 (Track Version),Twin-Turbo V6 Hybrid,3493,500,300,3,150000,Hybrid,2,600
+Volkswagen,Volkswagen XL1,Plug-in Hybrid (0.8L I2 Diesel),,68,160,11.9,150000,Hybrid,2,140
+Cadillac,Escalade V,6.2L Supercharged V8 Gasoline,6200,682,200,4.4,149990,Petrol,7,885
+Bmw,M8 GRAN COUPE,V8,4395,523,305,3.3,146000,Petrol,5,750
+Porsche,911 Carrera GTS Lightweight,3.0L Twin-Turbo Flat-6,2981,473,311,3.2,145300,Petrol,4,570
+Bmw,M5 CS,V8,4395,627,305,3,142000,Petrol,5,750
+Aston Martin,VANTAGE ,V8,3996,503,313,3.6,142000,Petrol,2,685
+Porsche,718 Cayman GT4 RS,4.0L Naturally Aspirated Flat-6,3996,493,315,3.2,141700,Petrol,2,450
+Porsche,Taycan Cross Turismo GTS,Dual Electric Motors,,590,250,3.8,139400,Electric,4,620
+Porsche,911 Carrera 4 GTS,3.0L Twin-Turbo Flat-6,2981,473,311,3.3,137000,Petrol,4,570
+Porsche,Panamera GTS Sport Turismo,4.0L Twin-Turbo V8,3996,473,300,3.9,136900,Petrol,4,620
+Porsche,Taycan Sport Turismo GTS,Dual Electric Motors,,590,250,3.7,136700,Electric,4,620
+Porsche,911 Targa 4 Lightweight,3.0L Twin-Turbo Flat-6,2981,379,289,4.3,135500,Petrol,4,450
+Bmw,M4 GTS,I6,2993,493,305,3.7,133000,Petrol,4,600
+Porsche,Taycan GTS,Dual Electric Motors,,590,250,3.5,132750,Electric,4,850
+Porsche,911 Carrera S,3.0L Twin-Turbo Flat-6,2981,443,308,3.5,131300,Petrol,4,528
+Porsche,Cayenne Turbo,4.0L V8 Twin Turbo,3996,,286,4,130000,Petrol,5,770
+Porsche,Panamera GTS,4.0L V8 Twin Turbo,3996,,300,3.9,130000,Petrol,4,620
+Porsche,911 Carrera S Cabriolet,3.0L Twin-Turbo Flat-6,2981,443,304,3.9,129900,Petrol,4,530
+Porsche,Panamera 4S E-Hybrid Executive,2.9L Twin-Turbo V6 + Electric Motor,2894,560,295,3.7,128900,Hybrid,4,750
+Volvo,Volvo VNL,12.8L I6 Turbo Diesel,12800,500,120,15,125000,Diesel,2,2400
+Porsche,911 Targa 4,3.0L Twin-Turbo Flat-6,2981,379,289,4.4,121300,Petrol,4,450
+Porsche,Panamera 4 E-Hybrid Sport Turismo,2.9L V6 + Electric Motor,,,280,4.4,120000,Petrol/Hybrid,4,700
+Volvo,Volvo FH,13.0L I6 Turbo Diesel,13000,540,120,15,120000,Diesel,2,2600
+Volvo,Volvo VHD,12.8L I6 Turbo Diesel,12800,500,100,18,120000,Diesel,2,2500
+Jaguar Land Rover,Jaguar F-Type SVR,V8 Petrol,,575,320,3.7,120000,Petrol,2,700
+Mercedes,BENZ S-CLASS S 580,V8,3982,496,250,4.4,116000,Petrol,5,700
+Porsche,911 Sport Turismo,3.0L Twin-Turbo Flat-6,2981,379,293,4.4,116000,Petrol,4,450
+Porsche,Panamera E-Hybrid,2.9L V6 + Electric Motor,,,280,4.4,115000,Petrol/Hybrid,4,700
+Bmw,X5 M COMPETITION,V8,4935,523,285,4.1,114000,Petrol,5,750
+Audi,RS7 SPORTBACK,V8,3993,591,305,3.6,114000,Petrol,5,800
+Tesla,Model X Plaid,Tri Electric Motors,,1020,262,2.6,113490,Electric,6,1400
+Porsche,911 Carrera 4S,3.0L Twin-Turbo Flat-6,2981,443,306,3.4,113300,Petrol,4,528
+Porsche,Panamera 4 E-Hybrid,2.9L Twin-Turbo V6 + Electric Motor,2894,462,280,4.4,113300,Hybrid,4,700
+Mercedes,BENZ GLE 63 S,V8,3982,603,250,4.2,113000,Petrol,5,850
+Nissan,GT-R,V6,3799,600,315,2.9,113000,Petrol,4,637
+Gmc,Hummer EV Omega Edition,"Electric motors with up to 11,500 lb-ft torque",,,170,3,112700,Electric,5,15590
+Porsche,Cayenne GTS Coupe,4.0L Twin-Turbo V8,3996,453,270,4.5,111200,Petrol,4,620
+Porsche,Cayenne GTS,4.0L V8 Twin Turbo,3996,,270,4.5,110000,Petrol,5,620
+Gmc,Hummer EV SUV Extreme Off-Road,"Electric motors with up to 11,500 lb-ft torque",,,170,3.6,110000,Electric,5,15590
+Porsche,911 Carrera,3.0L Flat-6 Twin Turbo,2981,,293,4.2,110000,Petrol,4,450
+Volvo,Volvo FMX,13.0L I6 Turbo Diesel,13000,500,110,16.5,110000,Diesel,2,2500
+Jaguar Land Rover,Jaguar F-Type Heritage Edition,V8 Petrol,,550,300,3.9,110000,Petrol,2,680
+Audi,RS6 AVANT,V8,3993,591,305,3.6,109000,Petrol,5,800
+Mercedes,BENZ S-CLASS S 500,V6,2996,429,250,4.9,109000,Petrol,5,700
+Gmc,Hummer EV Pickup,Dual-Motor Electric,,625,170,3,108700,Electric,5,1000
+Gmc,Sierra EV Denali,Electric motors with advanced AWD,,,170,4.5,108700,Electric,5,1064
+Tesla,Model S Plaid,Tri Electric Motors,,1020,322,2.1,108490,Electric,5,1400
+Bmw,M850i DRIVE COUPE,V8,4935,523,285,3.7,108000,Petrol,4,750
+Porsche,911 Carrera 4,3.0L Twin-Turbo Flat-6,2981,379,293,4.2,106500,Petrol,4,450
+Porsche,911 Carrera Base,3.0L Twin-Turbo Flat-6,2981,379,293,4.2,106100,Petrol,4,450
+Gmc,Hummer EV SUV,Dual-Motor Electric,,625,170,3.5,105600,Electric,5,1000
+Nissan,Patrol NISMO,5.6L V8,5552,,210,6.5,105000,Petrol,7,560
+Gmc,Hummer EV Adventure Series,"Electric motors with up to 11,500 lb-ft torque",,,170,3.6,105000,Electric,5,15590
+Porsche,Panamera 4S,2.9L V6 Twin Turbo,2894,,289,4.4,105000,Petrol,4,550
+Porsche,Panamera 4S ,2.9L Twin-Turbo V6,2894,443,289,4.1,105000,Petrol,4,550
+Cadillac,Escalade Platinum,6.2L V8 Gasoline,6200,420,210,6.8,104595,Petrol,7,624
+Mercedes,BENZ E-CLASS E 63 S,V8,3982,603,250,3.4,104000,Petrol,5,850
+Porsche,Taycan Sport Turismo,Dual Electric Motors,,509,240,4.1,104000,Electric,5,650
+Porsche,Taycan 4S,Dual Electric Motors,,522,250,4,103800,Electric,4,640
+Mercedes,BENZ EQS 53,ELECTRIC MOTOR,,751,250,3.4,102000,Electric,5,950
+Porsche,Panamera Platinum Edition,2.9L V6 Twin Turbo,2894,,270,5.4,102000,Petrol,4,450
+Porsche,Panamera 4 Sport Turismo,2.9L Twin-Turbo V6,2894,325,265,5.5,101400,Petrol,4,450
+Audi,S8,V8,3993,563,305,4.3,101000,Petrol,5,800
+Porsche,718 Cayman GT4,4.0L Naturally Aspirated Flat-6,3995,414,302,4.2,100200,Petrol,2,420
+Volvo,Volvo FM,12.8L I6 Turbo Diesel,12800,460,110,16,100000,Diesel,2,2200
+Jaguar Land Rover,Jaguar F-Type V8 R,V8 Petrol,,550,300,3.9,100000,Petrol,2,680
+Jaguar Land Rover,Jaguar F-Type 75th Anniversary Edition,V8 Petrol,,550,300,3.9,100000,Petrol,2,680
+Jaguar Land Rover,Jaguar F-Type Coupe R,V8 Petrol,,550,300,3.9,100000,Petrol,2,680
+Mercedes,BENZ GT 53,V6,2996,429,250,4.5,99000,Petrol,5,700
+Tesla,Model X,Dual Electric Motors (AWD),,670,250,3.8,98490,Electric,7,967
+Porsche,718 Spyder,4.0L Naturally Aspirated Flat-6,3995,414,301,4.1,98300,Petrol,2,420
+Nissan,Patrol Titanium,5.6L V8,5552,,210,6.5,98000,Petrol,7,560
+Porsche,Taycan Cross Turismo,Dual Electric Motors,,469,220,4.8,97700,Electric,5,500
+Gmc,Hummer EV SUV Edition 1,"Electric motors with up to 11,500 lb-ft torque",,,170,3.5,96550,Electric,5,15590
+Gmc,Hummer EV Pickup Edition 1,"Electric motors with up to 11,500 lb-ft torque",,,170,3,96550,Electric,5,15590
+Audi,S7 SPORTBACK,V8,3993,563,305,4.3,96000,Petrol,5,650
+Nissan,Patrol Desert Edition,5.6L V8,5552,,210,6.5,95000,Petrol,7,560
+Nissan,Patrol Warrior,5.6L V8,5552,,205,6.3,95000,Petrol,7,580
+Nissan,Patrol Legend Edition,5.6L V8,5552,,205,6.3,95000,Petrol,7,580
+Porsche,Cayenne S,2.9L V6 Twin Turbo,2894,,265,5,95000,Petrol,5,550
+Porsche,Panamera 4 Executive,2.9L V6 Twin Turbo,2894,,270,5.6,95000,Petrol,4,450
+Volvo,Volvo VNR,12.8L I6 Turbo Diesel,12800,400,110,17,95000,Diesel,2,1800
+Porsche,Taycan Cross Turismo 4,Dual Electric Motors,,375,240,5.1,94800,Electric,4,500
+Porsche,Cayenne S Coupe,2.9L Twin-Turbo V6,2894,434,263,4.7,94300,Petrol,4,550
+Gmc,Yukon XL Denali Ultimate,6.2L V8 Gasoline,6200,420,200,6.7,93800,Petrol,8,624
+Porsche,Panamera Base,2.9L Twin-Turbo V6,2894,325,265,5.6,92300,Petrol,4,450
+Cadillac,CT5-V Blackwing,6.2L Supercharged V8 Gasoline,6200,668,320,3.4,92000,Petrol,5,893
+Porsche,Panamera 4,2.9L V6 Twin Turbo,2894,,270,5.4,92000,Petrol,4,450
+Jeep,Grand Wagoneer,6.4L V8 Gasoline,6400,471,190,6,91495,Petrol,8,617
+Porsche,Cayenne E-Hybrid,3.0L V6 + Electric Motor,2995,455,253,4.8,91000,Hybrid,5,700
+Porsche,Taycan Sport Turismo Base,Dual Electric Motors,,375,230,5.4,90500,Electric,4,500
+Porsche,718 Boxster GTS,4.0L Naturally Aspirated Flat-6,3995,394,293,4.3,90300,Petrol,2,430
+Gmc,Yukon Denali Ultimate Black,6.2L V8 engine,6162,420,210,6,90000,Petrol,8,624
+Mercedes,BENZ S-CLASS S 350,I4,1991,255,250,6.5,90000,Petrol,5,500
+Jaguar Land Rover,Jaguar XJ LWB (Long Wheelbase),V6 Petrol,,300,250,6,90000,Petrol,5,400
+Jaguar Land Rover,Jaguar I-PACE HSE,Electric (Dual Motor),,400,200,4.5,90000,Electric,5,696
+Jaguar Land Rover,Jaguar XJ Supercharged,V8 Petrol,,510,280,4.2,90000,Petrol,5,625
+Jaguar Land Rover,Jaguar F-Type P450 AWD,V8 Petrol,,450,290,4,90000,Petrol,2,600
+Tesla,Model S,Dual Electric Motors,,670,250,3.1,88490,Electric,5,967
+Porsche,Panamera,2.9L V6 Twin Turbo,2894,,270,5.6,88000,Petrol,4,450
+Porsche,Taycan,Dual Electric Motors,,402,230,5.4,86700,Electric,4,344
+Porsche,Taycan Base,Dual Electric Motors,,321,230,5.4,86700,Electric,4,345
+Audi,A8,V6,2995,335,250,5.7,86000,Petrol,5,600
+Porsche,Cayenne S Hybrid,3.0L V6 + Electric Motor,2995,380,242,6.5,85500,Hybrid,5,580
+Toyota,TOYOTA LAND CRUISER,V8,5663,381,220,6.7,85000,Diesel,7,500
+Nissan,Patrol Royale,5.6L V8,5552,,210,6.6,85000,Petrol,7,560
+Nissan,Patrol Black Edition,5.6L V8,5552,,200,6.5,85000,Petrol,7,560
+Gmc,Sierra HD Denali Reserve,6.6L V8 engine,6600,401,170,7.5,85000,Petrol,5,629
+Porsche,Cayenne Coupe,3.0L V6 Turbo,2995,,245,6,85000,Petrol,5,450
+Porsche,Macan GTS,2.9L V6 Twin Turbo,2894,,272,4.5,85000,Petrol,5,550
+Volkswagen,Phaeton,3.0L V6 Diesel / 6.0L W12 Gas,,345,250,6.1,85000,Petrol,5,560
+Porsche,Macan EV ,Dual Electric Motors,,603,240,4,85000,Electric,5,750
+Jaguar Land Rover,Jaguar XJ,V6 Petrol,,300,250,6,85000,Petrol,5,400
+Jaguar Land Rover,Jaguar I-PACE Electric Performance,Electric (Dual Motor),,400,200,4.5,85000,Electric,5,696
+Jaguar Land Rover,Jaguar F-PACE SVR,V8 Petrol,,550,283,4,85000,Petrol,5,700
+Jaguar Land Rover,Jaguar I-PACE EV400 HSE,Electric (Dual Motor),,400,200,4.5,85000,Electric,5,696
+Jaguar Land Rover,Jaguar I-PACE First Edition,Electric (Dual Motor),,400,200,4.5,85000,Electric,5,696
+Volvo,Volvo FE,7.7L I6 Turbo Diesel,7700,280,90,20,85000,Diesel,2,1200
+Ford,F-150 Limited,Turbocharged V6,3500,450,190,6.1,84910,Petrol,5,678
+Bmw,M2 CS,I6,2993,444,280,4,83000,Petrol,4,550
+Jeep,Wrangler 392,6.4L V8 HEMI Gasoline,6400,470,160,4.5,82495,Petrol,4,637
+Chevrolet,Suburban High Country,6.2L V8 Gasoline,6200,420,200,7,82400,Petrol,8,624
+Cadillac,Escalade ESV,6.2L V8 Gasoline,6200,420,205,6.9,82295,Petrol,7,624
+Gmc,Yukon XL Denali Reserve,6.2L V8 engine,6162,420,210,6,82000,Petrol,7,624
+Gmc,Sierra 1500 AT4X,6.2L V8 engine,6162,420,200,5.9,82000,Petrol,5,624
+Bmw,M4 COMPETITION,I6,2993,503,290,3.8,81000,Petrol,4,650
+Gmc,Sierra 1500 Denali Ultimate,6.2L V8 engine,6162,420,200,5.8,80000,Petrol,5,624
+Porsche,Cayenne,3.0L V6 Turbo,2995,,245,5.9,80000,Petrol,5,450
+Jeep,Wagoneer S (Electric),Dual Electric Motors,,600,177,4.5,80000,Electric,5,850
+Jaguar Land Rover,Jaguar XJ50,V6 Petrol,,300,250,6,80000,Petrol,5,400
+Mitsubishi,Fuso Fighter (Truck),7.5L Diesel,7500,240,120,,80000,Diesel,2,686
+Jaguar Land Rover,Jaguar F-Type V6 S Convertible,V6 Petrol,,380,280,4.8,80000,Petrol,2,460
+Ford,Expedition King Ranch,Turbocharged V6,3500,440,210,6.8,79560,Petrol,8,691
+Ford,Mustang Shelby GT500,Supercharged V8,5200,760,290,3.5,79420,Petrol,2,847
+Cadillac,Escalade,6.2L V8 Gasoline,6200,420,210,6.8,79295,Petrol,7,624
+Porsche,Cayenne Platinum Edition,3.0L Turbocharged V6,2995,335,245,5.8,79000,Petrol,5,450
+Gmc,Yukon Trailering Edition,5.3L V8 engine,5327,355,210,7.5,78000,Petrol,8,519
+Bmw,M550i XDRIVE,V8,4395,523,250,3.6,78000,Petrol,5,650
+Audi,E-TRON SPORTBACK,ELECTRIC,,402,200,5.5,78000,Electric,5,664
+Nissan,Patrol Platinum,5.6L V8,5552,,210,7.3,77000,Petrol,7,560
+Nissan,Patrol,5.6L V8,5552,,210,7.3,77000,Petrol,7,560
+Gmc,Yukon Denali Performance,6.2L V8 engine,6162,420,210,6,76805,Petrol,8,624
+Chevrolet,Tahoe High Country,6.2L V8 Gasoline,6200,420,200,6.7,76700,Petrol,7,624
+Bmw,M3 COMPETITION,I6,2993,503,285,3.5,76000,Petrol,5,650
+Chevrolet,Silverado 3500HD High Country,6.6L V8 Diesel,6600,445,160,8.5,75700,Diesel,6,1234
+Porsche,718 Cayman S,2.5L Turbocharged Flat-4,2497,350,285,4.4,75400,Petrol,2,420
+Gmc,Yukon XL Elevation,5.3L V8 engine,5327,355,210,7.4,75000,Petrol,8,519
+Gmc,Sierra 2500HD Denali Black Edition,6.6L V8 engine,6600,401,170,7.5,75000,Petrol,5,629
+Nissan,Skyline 50th Anniversary,3.0L Twin-Turbo V6,2997,,250,4.5,75000,Petrol,5,475
+Porsche,Macan S,2.9L V6 Twin Turbo,2894,,259,4.8,75000,Petrol,5,520
+Audi,E-TRON,ELECTRIC ,,402,200,5.5,75000,Electric,5,664
+Jaguar Land Rover,Jaguar F-PACE P400e Plug-in Hybrid,I4 Petrol + Electric Motor,,398,220,5.1,75000,Plug-in Hybrid,5,640
+Volvo,Volvo FL,5.1L I4 Turbo Diesel,5100,180,80,22,75000,Diesel,2,800
+Gmc,Yukon XL AT4,5.3L V8 engine,5327,355,210,7.3,73305,Petrol,8,519
+Gmc,Yukon Denali,6.2L V8 Gasoline,6200,420,200,6.8,72800,Petrol,8,624
+Gmc,Sierra 2500HD Denali,6.6L V8 Diesel,6600,401,175,7.5,72200,Diesel,6,1234
+Porsche,Cayenne Base,3.0L Turbocharged V6,2995,335,245,5.9,72200,Petrol,5,450
+Gmc,Sierra 3500HD AT4,6.6L V8 engine,6600,401,170,7.7,72000,Petrol,5,629
+Chevrolet,Tahoe Premier,6.2L V8 Gasoline,6200,420,200,6.8,71600,Petrol,7,624
+Gmc,Yukon AT4,5.3L V8 engine,5327,355,210,7.1,71505,Petrol,8,519
+Mercedes,BENZ GLE 53,V6,2996,429,250,5.2,71000,Petrol,5,620
+Nissan,Infiniti QX80*,5.6L V8,5552,,210,6.5,70600,Petrol,7,560
+Toyota,COASTER,"4.0L,DIESEL",4009,134,120,,70000,Diesel,20,500
+Chevrolet,Tahoe Sport Edition,6.2L V8 Gasoline,6200,420,200,6.8,70000,Petrol,7,624
+Nissan,Pathfinder Armada Platinum,5.6L V8,5552,,190,6.8,70000,Petrol,7,560
+Volkswagen,California,2.0L Turbo I4,1984,177,180,13,70000,Diesel,7,340
+Gmc,Sierra 2500HD AT4,6.6L V8 engine,6600,401,170,7.5,70000,Petrol,5,629
+Nissan,President,4.5L V8,4494,,210,7.5,70000,Petrol,5,400
+Volkswagen,Amarok V8,4.0L V8 Turbo Diesel,3996,325,210,7.4,70000,Diesel,5,580
+Volkswagen,Touareg V8,4.0L V8 Turbo Diesel,3956,421,250,4.9,70000,Petrol,5,770
+Ford,F-150 Raptor,3.5L Twin-Turbo V6,3500,450,200,5,70000,Petrol,5,691
+Nissan,Skyline 400R,3.0L Twin-Turbo V6,2997,,250,4.5,70000,Petrol,5,475
+Mercedes,BENZ CLS 450,V6,2996,362,250,5.2,70000,Petrol,5,500
+Volkswagen,Touareg R,Plug-in Hybrid V6,2995,462,250,5.1,70000,Hybrid,5,700
+Nissan,Ariya Dual Motor AWD,Dual Electric Motors,,,200,5.1,70000,Electric,5,600
+Jaguar Land Rover,Jaguar I-PACE,Electric (Dual Motor),,400,200,4.8,70000,Electric,5,696
+Ford,Bronco Raptor,3.0L Twin-Turbo V6,3000,400,220,5.5,70000,Petrol,4,583
+Nissan,Skyline GT-R R34,2.6L Twin-Turbo Inline-6,2568,,250,5.6,70000,Petrol,4,392
+Jaguar Land Rover,Jaguar F-Type,V6 / V8 Petrol,,335,260,5.1,70000,Petrol,2,450
+Jaguar Land Rover,Jaguar F-Type R-Dynamic,I4 Petrol / V6 Petrol,,300,250,5.1,70000,Petrol,2,400
+Tesla,Cybertruck,Tri Electric Motors,,800,209,2.9,69900,Electric,6,1355
+Porsche,718 Boxster T,2.0L Turbo Flat-4,1988,300,275,4.7,69600,Petrol,2,380
+Bmw,X3 M COMPETITION,I6,2993,503,285,4.1,69000,Petrol,5,650
+Porsche,Cayenne Diesel (Regional Markets),3.0L Turbo Diesel V6,2967,262,221,7.3,69000,Diesel,5,580
+Audi,A7,V6,2995,335,250,5.7,68000,Petrol,5,600
+Nissan,Ariya Empower+,Dual Electric Motors,,,200,5.1,68000,Electric,5,600
+Chevrolet,Camaro ZL1,6.2L Supercharged V8 Gasoline,6200,650,318,3.5,67300,Petrol,4,881
+Nissan,Ariya Premiere,Dual Electric Motors,,,200,5.1,67000,Electric,5,600
+Gmc,Sierra Denali,6.2L V8 Gasoline,6200,420,190,6.7,66800,Petrol,6,624
+Chevrolet,Tahoe Z71,5.3L V8 Gasoline,5300,355,180,7.6,66700,Petrol,7,519
+Jeep,Grand Cherokee Summit Reserve,5.7L V8 Gasoline,5700,357,190,7.3,66575,Petrol,5,529
+Chevrolet,Corvette Grand Sport,6.2L V8 Gasoline,6200,460,290,3.9,65900,Petrol,2,630
+Chevrolet,Corvette,6.2L V8 Gasoline,6200,495,312,3,65895,Petrol,2,637
+Chevrolet,Corvette Stingray,6.2L V8 Gasoline,6200,495,312,3,65895,Petrol,2,637
+Chevrolet,Tahoe Midnight Edition,5.3L V8 Gasoline,5300,355,180,7.5,65500,Petrol,8,519
+Porsche,718 Boxster,2.0L Turbo Flat-4,1988,300,275,4.9,65500,Petrol,2,380
+Nissan,Armada Platinum,5.6L V8,5552,,210,6.5,65300,Petrol,8,560
+Gmc,Yukon XL SLT,5.3L V8 engine,5327,355,210,7.3,65000,Petrol,8,519
+Gmc,Sierra Denali CarbonPro,6.2L V8 engine,6162,420,200,5.8,65000,Petrol,5,624
+Porsche,Macan T,2.0L I4 Turbo,1984,,232,6.2,65000,Petrol,5,400
+Kia,EV6 GT Performance,Electric Motor,,577,260,3.5,65000,Electric,5,740
+Jaguar Land Rover,Jaguar F-PACE R-Dynamic,I4 Petrol / V6 Petrol,,340,250,5.4,65000,Petrol,5,480
+Jaguar Land Rover,Jaguar XF R-Dynamic,I4 Petrol / V6 Petrol,,340,250,5.4,65000,Petrol,5,480
+Jaguar Land Rover,Jaguar F-PACE S AWD,I4 Petrol / V6 Petrol,,340,250,5.4,65000,Petrol,5,480
+Jaguar Land Rover,Jaguar F-PACE Prestige AWD,I4 Petrol / V6 Petrol,,340,250,5.4,65000,Petrol,5,480
+Ford,F-150 Lightning,Electric Motor,,452,180,4.5,65000,Electric,5,1051
+Cadillac,Lyriq EV Premium,Dual Electric Motors,,500,210,4.5,64990,Electric,5,620
+Ford,F-150 Platinum,Turbocharged V6,3500,400,180,6.5,64695,Petrol,5,678
+Ford,F-550 Super Duty,Turbocharged V8 Diesel,6700,475,165,8.8,64540,Diesel,6,1424
+Chevrolet,Suburban LT,5.3L V8 Gasoline,5300,355,180,5.1,64400,Petrol,8,519
+Chevrolet,Tahoe RST,5.3L V8 Gasoline,5300,355,180,7.4,64100,Petrol,7,519
+Audi,S5 COUPE,V6,2995,349,250,4.8,64000,Petrol,4,500
+Jeep,Wagoneer,5.7L V8 Gasoline with eTorque,5700,392,190,7.4,63595,Petrol,8,548
+Porsche,718 Cayman,2.0L Turbocharged Flat-4,1988,300,275,4.9,63400,Petrol,2,380
+Mercedes,BENZ GLE 450,V6,2996,362,250,5.5,63000,Petrol,5,500
+Nissan,Ariya Lounge Edition,Dual Electric Motors,,,200,5.1,63000,Electric,5,600
+Ford,Expedition,3.5L EcoBoost / 5.4L V8,,388,180,6.5,62500,Petrol,8,725
+Chevrolet,Tahoe LT,5.3L V8 Gasoline,5300,355,180,7.4,62495,Petrol,8,519
+Mercedes,BENZ E-CLASS E 450 ,V6,2996,362,250,5.2,62000,Petrol,5,500
+Audi,SQ5,V6,2995,349,250,5.4,62000,Petrol,5,500
+Kia,EV6 First Edition AWD,Electric Motor,,320,230,5,62000,Electric,5,450
+Acura,TLX PMC Edition,V6,,290,250,5.7,62000,Petrol,5,362
+Gmc,Sierra 3500HD Pro,6.6L V8 engine,6600,401,170,7.8,62000,Petrol,3,629
+Nissan,Infiniti FX50*,5.0L V8,5026,,250,5.6,61750,Petrol,5,500
+Ford,F-450 Super Duty,Turbocharged V8 Diesel,6700,475,165,8.5,61625,Diesel,6,1424
+Chevrolet,Silverado 1500 High Country,5.3L V8 Gasoline,5300,355,180,7,61595,Petrol,6,519
+Gmc,Yukon XL,6.2L V8 Gasoline,6200,420,200,6.9,61100,Petrol,8,624
+Cadillac,CT4-V Blackwing,3.6L Twin-Turbo V6 Gasoline,3600,472,290,3.9,60495,Petrol,5,603
+Nissan,Pathfinder Armada,5.6L V8,5552,,200,6.5,60000,Petrol,7,560
+Gmc,Acadia Denali Ultimate,3.6L V6 engine,3564,310,210,6.5,60000,Petrol,7,366
+Audi,Q7,V6,2995,335,250,6.3,60000,Petrol,7,600
+Volvo,XC90,I6,1969,247,200,6.5,60000,Petrol/Diesel,7,400
+Toyota,ALPHARD EXECUTIVE LOUNGE,"2.5L,INLINE-4,HYBRID,OR 3.5L,V6",,296,180,8.5,60000,Petrol,7,400
+Volkswagen,ID. Buzz Pro,Electric,,204,145,10.2,60000,Electric,7,310
+Acura,MDX Advance,V6,,290,190,6,60000,Petrol,7,362
+Nissan,Cima,4.1L V8,4130,,210,8,60000,Petrol,5,390
+Volkswagen,Touareg V6,3.0L V6 Turbo Diesel / Gasoline,2967,286,235,7.5,60000,Petrol,5,450
+Nissan,Cedric Special Edition,3.0L V6,2960,,225,8.5,60000,Petrol,5,330
+Porsche,Macan,2.0L I4 Turbo,1984,,232,6.2,60000,Petrol,5,400
+Volvo,S90,I6,1969,295,250,5.9,60000,Petrol/Diesel,5,400
+Nissan,Ariya E-4ORCE,Dual Electric Motors,,,200,5.1,60000,Electric,5,600
+Kia,EV6 AWD GT-Line,Electric Motor,,320,230,5,60000,Electric,5,450
+Jaguar Land Rover,Jaguar XE R-Dynamic,I4 Petrol,,340,250,5.4,60000,Petrol,5,450
+Jaguar Land Rover,Jaguar XF Sportbrake,I4 Petrol / V6 Petrol,,250,250,6.5,60000,Petrol,5,400
+Jaguar Land Rover,Jaguar F-PACE S 30t AWD,I4 Petrol,,247,225,6.4,60000,Petrol,5,365
+Jaguar Land Rover,Jaguar XF Portfolio AWD,I4 Petrol / V6 Petrol,,340,250,5.4,60000,Petrol,5,450
+Peugeot,508 PSE,Hybrid I4,,360,250,5.2,60000,Hybrid,5,520
+Ford,F-350 Super Duty,6.7L Turbo-Diesel / 7.3L V8,,462,180,,60000,Diesel,5,1125
+Ford,Mustang (2024),V8 Gasoline Engine,5000,450,250,4.5,60000,Petrol,4,570
+Gmc,Sierra 2500HD Pro,6.6L V8 engine,6600,401,170,7.7,60000,Petrol,3,629
+Jaguar Land Rover,Jaguar F-Type P300 Coupe,I4 Petrol,,300,250,5.5,60000,Petrol,2,400
+Volkswagen,ID. Buzz,Electric,,204,145,10.2,59995,Electric,7,310
+Cadillac,Lyriq Launch Edition,Single Electric Motor,,340,190,5.7,59990,Electric,5,440
+Chevrolet,Suburban,5.3L V8 Gasoline,5300,355,190,7.6,59900,Petrol,8,519
+Jeep,Grand Cherokee 4xe,2.0L Turbo PHEV,,375,210,6,59865,Hybrid,5,637
+Ford,Mustang Shelby GT350,Naturally Aspirated V8,5200,526,280,4,59140,Petrol,2,582
+Audi,S4 SEDAN,V6,2995,349,250,4.7,59000,Petrol,5,500
+Nissan,Ariya ,Dual Electric Motors,,,200,5.1,58950,Electric,5,600
+Cadillac,Lyriq EV,Single Electric Motor,,340,190,5.7,58590,Electric,5,440
+Toyota,LAND CRUISER 300,"3.3L,V6,TWIN TURBO DIESEL",3346,305,210,6.8,58500,Petrol/Diesel,7,650
+Nissan,Patrol Super Safari Y61,4.8L Inline-6,4750,,190,8.2,58000,Petrol,7,451
+Acura,MDX Elite,V6,3500,290,190,6,58000,Petrol,7,362
+Audi,A6,V6,2995,335,250,5.7,58000,Petrol,5,600
+Porsche,Macan Base,2.0L Turbo Inline-4,1984,265,232,6.4,58000,Petrol,5,400
+Kia,EV6 First Edition,Electric Motor,,320,230,5,58000,Electric,5,450
+Gmc,Yukon,5.3L V8 Gasoline,5300,355,180,7.4,57400,Petrol,8,519
+Cadillac,XT6 Sport,3.6L V6 Gasoline,3600,310,210,6.9,57095,Petrol,7,366
+Bmw,M340i XDRIVE,I6,2998,382,250,4.1,57000,Petrol,5,500
+Bmw,530i,I4,1998,248,250,5.9,57000,Petrol,5,400
+Chevrolet,Tahoe LS,5.3L V8 Gasoline,5300,355,180,7.5,56995,Petrol,8,519
+Chevrolet,Tahoe,5.3L V8 Gasoline,5300,355,200,7.5,56995,Petrol,7,519
+Ford,Explorer Platinum,Turbocharged V6,3000,400,230,6,56505,Petrol,7,563
+Chevrolet,Silverado 2500HD LTZ,6.6L V8 Diesel,6600,445,160,8.4,56400,Diesel,6,1234
+Gmc,Sierra 1500 SLT,5.3L V8 engine,5327,355,180,6.8,56000,Petrol,5,519
+Toyota,TUNDRA I-FORCE MAX,"3.5L,V6,HYBRID TWIN-TURBO",3445,437,180,6.2,56000,Hybrid,5,750
+Chevrolet,Silverado 1500 Trail Boss,5.3L V8 Gasoline,5300,355,180,7,55895,Petrol,6,519
+Nissan,Patrol Super Safari,4.8L Inline-6,4750,,190,8.2,55000,Petrol,7,451
+Acura,MDX Hybrid,V6 Hybrid,3500,321,190,6,55000,Hybrid,7,335
+Acura,MDX SH-AWD w/Technology Package,V6,3500,290,190,6,55000,Petrol,7,362
+Mazda,CX-90,3.3L Inline-6 Turbo,3300,340,240,6.2,55000,Petrol,7,500
+Ford,Explorer (2024),V6 Turbocharged,3000,400,230,5.9,55000,Petrol,7,563
+Toyota,FORTUNER GR SPORT,"2.8L,TURBO,DIESEL",2755,204,175,10.5,55000,Petrol/Diesel,7,500
+Toyota,PROACE VERSO ELECTRIC,ELECTRIC MOTOR,,136,130,13.5,55000,Electric,7,280
+Acura,MDX SH-AWD,V6,,290,190,6,55000,Petrol,7,362
+Nissan,Titan XD,5.6L V8,5552,,195,6.9,55000,Petrol,6,560
+Nissan,Titan Warrior,5.6L V8,5552,,180,7,55000,Petrol,5,560
+Gmc,Canyon AT4X Edition 1,3.6L V6 engine,3564,308,180,6.8,55000,Petrol,5,373
+Hyundai,Azera,3.3L V6,3300,278,240,6.5,55000,Petrol,5,250
+Hyundai,Equus,3.3L V6,3300,278,240,6.5,55000,Petrol,5,400
+Nissan,Skyline NISMO,3.0L Twin-Turbo V6,2997,,270,4.7,55000,Petrol,5,475
+Kia,Stinger Scorpion Edition,2.5L Turbocharged 4-Cylinder,2500,300,270,5,55000,Petrol,5,422
+Volvo,XC60,I6,1969,247,220,6.4,55000,Petrol/Diesel,5,400
+Volkswagen,Touareg,3.0L V6 Turbo Diesel / 4.0L V8,,366,235,5.9,55000,Petrol/Diesel,5,600
+Peugeot,508 PSE (Peugeot Sport Engineered),Hybrid I4 + Electric Motor,,360,250,5.2,55000,Hybrid,5,520
+Jaguar Land Rover,Jaguar XE S,I4 Petrol,,340,250,5.3,55000,Petrol,5,450
+Jaguar Land Rover,Jaguar XE P300 R-Dynamic,I4 Petrol,,300,250,5.5,55000,Petrol,5,400
+Jaguar Land Rover,Jaguar E-PACE R-Dynamic,I4 Petrol,,246,230,6.8,55000,Petrol,5,430
+Jaguar Land Rover,Jaguar XE R-Sport AWD,I4 Petrol / V6 Petrol,,300,250,5.5,55000,Petrol,5,400
+Acura,RDX Platinum Elite,I4 Turbocharged,,272,210,6.6,55000,Petrol,5,400
+Peugeot,308 PSE,Hybrid I4,,360,250,5,55000,Hybrid,5,520
+Ford,F-150,3.3L V6 / 5.0L V8 / 3.5L EcoBoost,,370,200,,55000,Petrol/Diesel,5,550
+Ford,F-250 Super Duty,6.2L V8 / 7.3L V8 / 6.7L Turbo-Diesel,,430,180,,55000,Petrol/Diesel,5,875
+Ford,Mustang,5.0L V8,5000,450,250,4.3,55000,Petrol,4,530
+Nissan,300ZX Turbo,3.0L Twin-Turbo V6,2960,,250,5.9,55000,Petrol,4,384
+Volkswagen,ID. Buzz Cargo,Electric,,204,145,10.2,55000,Electric,3,310
+Mitsubishi,Fuso Canter Eco Hybrid,3.0L Diesel Hybrid,3000,150,120,,55000,Diesel Hybrid,2,370
+Volkswagen,ID. Buzz Cargo Pro,Electric,,204,145,10.2,55000,Electric,2,310
+Volkswagen,ID. Buzz Cargo EV,Electric,,204,145,10.2,55000,Electric,2,310
+Gmc,Acadia Denali,3.6L V6 engine,3564,310,210,6.5,54300,Petrol,7,366
+Acura,TLX Type S PMC Edition,Turbocharged V6,3000,355,250,5.1,54000,Petrol,5,480
+Mercedes,BENZ GLC 43,V6,2996,402,250,4.7,54000,Petrol,5,520
+Toyota,GR SUPRA,I4,2998,382,250,4.1,53900,Petrol,2,500
+Gmc,Sierra 1500 AT4,5.3L V8 Gasoline,5300,355,180,7.4,53800,Petrol,6,519
+Tesla,Model 3 Performance,Dual Electric Motors (AWD),,450,261,3.1,53240,Electric,5,660
+Kia,Telluride Limited Edition,3.8L V6,3778,291,240,7,53000,Petrol,7,355
+Ford,Explorer Plug-in Hybrid,V6 Hybrid + Electric Motor,,457,225,6,53000,Hybrid,7,825
+Mercedes,BENZ CLA 45 AMG,I4,1991,382,250,4.1,53000,Petrol,5,500
+Mercedes,BENZ A-CLASS A 45 S,I4,1991,416,250,3.9,53000,Petrol,5,500
+Mercedes,BENZ GLE 350 ,I4,1991,255,250,6.1,53000,Petrol,5,500
+Ford,Explorer Hybrid,3.3L V6 + Electric,3300,318,180,7.5,52500,Hybrid,7,500
+Toyota,MIRAI,I4,1798,151,180,9.2,52400,Hydrogen,5,335
+Ford,Transit Electric (E-Transit),Electric Motor,,266,140,9,52000,Electric,12,430
+Hyundai,Palisade,3.8L V6,3800,291,240,6.3,52000,Petrol,7,355
+Kia,Telluride SX Prestige,3.8L V6,3778,291,240,7,52000,Petrol,7,355
+Acura,MDX Sport Hybrid,V6 Hybrid,3500,321,190,6,52000,Hybrid,7,335
+Ford,Everest,Turbocharged Inline-4,2000,210,190,10.5,52000,Diesel,7,500
+Hyundai,Genesis,3.8L V6,3800,291,240,6.3,52000,Petrol,5,400
+Mercedes,BENZ C-CLASS C 43,V6,2996,402,250,4.7,52000,Petrol,5,520
+Gmc,Sierra 1500 Elevation,2.7L Turbo engine,2713,310,180,7,52000,Petrol,5,569
+Audi,S3 SEDAN,I4,1984,306,250,4.8,52000,Petrol,5,400
+Ford,Mustang Mach-E,Electric Motor,,385,180,,52000,Electric,5,
+Jeep,Gladiator Mojave Edition,3.6L V6 Pentastar Gasoline,3600,285,177,8.6,51570,Petrol,5,353
+Kia,Stinger GT,3.3L Turbocharged V6,3300,365,270,4.7,51500,Petrol,5,510
+Cadillac,XT5 Sport,3.6L V6 Gasoline,3600,310,210,6.5,51095,Petrol,5,366
+Nissan,Armada,5.6L V8,5552,,210,6.5,51000,Petrol,8,560
+Kia,Telluride Nightfall Edition,3.8L V6,3778,291,240,7,51000,Petrol,7,355
+Cadillac,CT5-V,3.0L Twin-Turbo V6 Gasoline,3000,360,250,4.6,50995,Petrol,5,550
+Chevrolet,Silverado 1500 RST,5.3L V8 Gasoline,5300,355,180,7.1,50895,Petrol,6,519
+Jeep,Wrangler 4xe,2.0L Turbo PHEV,,375,180,6.4,50695,Hybrid,5,637
+Tesla,Model Y Long Range,Dual Electric Motors (AWD),,384,217,4.8,50490,Electric,5,559
+Toyota,TOYOTA SEQUOIA,V8,5663,381,200,6.9,50000,Petrol,7,651
+Kia,Telluride SX,3.8L V6,3778,291,240,7,50000,Petrol,7,355
+Nissan,Elgrand,3.5L V6,3498,,200,8.5,50000,Petrol,7,344
+Hyundai,SANTA FE,1.6L PETROL + PLUG IN HYBRID SYSTEM,1600,253,180,9.3,50000,Petrol/Hybrid,7,420
+Volkswagen,Multivan,Plug-in Hybrid / Diesel I4,,184,190,9.4,50000,Petrol/Hybrid,7,350
+Toyota,4Runner (6th Gen),2.4L Turbo I4 (i-FORCE MAX Hybrid),,326,180,6.8,50000,Hybrid,7,630
+Nissan,Infiniti M45*,4.5L V8,4494,,250,5.8,50000,Petrol,5,451
+Nissan,Infiniti Q45*,4.5L V8,4494,,240,6.2,50000,Petrol,5,450
+Gmc,Canyon AT4X,3.6L V6 engine,3564,308,180,6.9,50000,Petrol,5,373
+Acura,TLX 3.5L V6,V6,3500,290,250,5.7,50000,Petrol,5,362
+Nissan,Skyline,3.0L V6 Twin-Turbo,2997,,250,5,50000,Petrol,5,475
+Nissan,Gloria Gran Turismo,3.0L V6 Turbo,2960,,220,6.5,50000,Petrol,5,340
+Toyota,HILUX GR SPORT,"2.8L,TURBO,DIESEL",2755,224,170,10,50000,Petrol/Diesel,5,500
+Toyota,HILUX REVO ROCCO,"2.8L,TURBO,DIESEL",2755,204,175,10,50000,Diesel,5,500
+Kia,Stinger GT-Line,2.5L Turbocharged 4-Cylinder,2500,300,270,5,50000,Petrol,5,422
+Nissan,Infiniti QX55*,2.0L VC-Turbo Inline-4,1997,,230,6.5,50000,Petrol,5,380
+Volkswagen,Arteon Shooting Brake,2.0L I4 Turbo,1984,235,250,5.6,50000,Petrol,5,420
+Volkswagen,Arteon R-Line,2.0L I4 Turbo,1984,235,250,5.6,50000,Petrol,5,420
+Volkswagen,Arteon 280 TSI,2.0L I4 Turbo,1984,280,250,5.6,50000,Petrol,5,350
+Acura,RDX Hybrid,Inline-4 Hybrid,1500,247,210,6.6,50000,Hybrid,5,400
+Volkswagen,ID.4 GTX,Electric AWD,,299,180,6.2,50000,Electric,5,460
+Kia,EV6 Wind,Electric Motor,,225,190,5.2,50000,Electric,5,350
+Jaguar Land Rover,Jaguar XF,I4 Petrol,,250,250,6.5,50000,Petrol,5,365
+Jaguar Land Rover,Jaguar E-PACE,I4 Petrol,,200,230,7,50000,Petrol,5,430
+Jaguar Land Rover,Jaguar E-PACE S,I4 Petrol,,200,230,7,50000,Petrol,5,430
+Jaguar Land Rover,Jaguar XE SE,I4 Petrol,,250,240,6.2,50000,Petrol,5,365
+Acura,TLX A-Spec,V6,,290,250,5.7,50000,Petrol,5,362
+Acura,RDX SH-AWD,I4 Turbocharged,,272,210,6.6,50000,Petrol,5,400
+Acura,TLX A-Spec Sedan,V6,,290,250,5.7,50000,Petrol,5,362
+Peugeot,3008 PSE,Hybrid I4,,300,235,6,50000,Hybrid,5,400
+Nissan,300ZX,3.0L Twin-Turbo V6,2960,,250,5.9,50000,Petrol,4,384
+Toyota,LAND CRUISER PRADO,V6,3956,282,200,7.2,49400,Petrol/Diesel,7,450
+Kia,Sorento X-Pro Hybrid,1.6L Hybrid Turbocharged 4-Cylinder,1591,227,200,7.8,49000,Hybrid,7,352
+Gmc,Sierra 3500HD,6.6L V8 Diesel,6600,445,175,7.4,49000,Diesel,6,1234
+Mercedes,BENZ E-CLASS E 350,I4,1991,255,250,5.7,49000,Petrol,5,500
+Audi,TT COUPE,I4,1984,248,250,5.3,49000,Petrol,2,400
+Chevrolet,Blazer RS,3.6L V6 Gasoline,3600,308,220,6.6,48900,Petrol,5,366
+Cadillac,XT6,3.6L V6 Gasoline,3600,310,210,6.9,48595,Petrol,7,366
+Chevrolet,Colorado ZR2,2.8L Turbo Diesel I4,2800,181,160,9.1,48295,Diesel,5,500
+Kia,Sorento SX Prestige,2.5L Hybrid Turbocharged 4-Cylinder,1591,227,200,7.9,48000,Hybrid,7,352
+Peugeot,5008 GT Hybrid,Hybrid I4,,300,210,6.5,48000,Hybrid,7,400
+Gmc,Canyon Denali,2.7L Turbo 4-cylinder,2700,310,190,7.5,48000,Petrol,5,583
+Mercedes,BENZ GLA 45,I4,1991,382,250,4.3,48000,Petrol,5,500
+Volkswagen,Arteon 4MOTION,2.0L Turbo I4,1984,255,250,5.6,48000,Petrol,5,350
+Bmw,430i COUPE,I4,1998,255,250,5.8,48000,Petrol,4,400
+Nissan,Fairlady Z Heritage,3.0L Twin-Turbo V6,2997,,250,4.2,48000,Petrol,2,475
+Mitsubishi,Pajero Final Edition,3.2L Diesel Turbo,3200,189,180,10.5,47500,Diesel,7,441
+Mitsubishi,Pajero GLS,3.2L Diesel Turbo,3200,189,180,10.5,47500,Diesel,7,441
+Mazda,CX-80,3.0L Inline-6,3000,250,210,7.5,47500,Petrol,7,400
+Mitsubishi,Pajero SWB (Short Wheel Base),3.2L Diesel Turbo,3200,189,180,10.5,47500,Diesel,5,441
+Tesla,Model Y,Single Electric Motor (RWD),,346,217,5,47490,Electric,5,498
+Kia,Carnival SX Prestige,3.5L V6,3500,290,220,8,47000,Petrol,8,355
+Kia,Sorento Hybrid SX Prestige,1.6L Hybrid Turbocharged 4-Cylinder,1591,227,200,7.9,47000,Hybrid,7,352
+Kia,Sorento Hybrid EX,1.6L Hybrid Turbocharged 4-Cylinder,1591,227,200,7.9,47000,Hybrid,7,352
+Peugeot,508 Hybrid4,Hybrid I4 + Electric Motor,,300,235,6,47000,Hybrid,5,520
+Nissan,Murano CrossCabriolet,3.5L V6,3498,,195,7.6,47000,Petrol,4,325
+Chevrolet,Traverse Premier,3.6L V6 Gasoline,3600,310,210,7,46600,Petrol,7,360
+Cadillac,CT4-V,2.7L Turbo Inline-4 Gasoline,2700,325,260,4.9,46595,Petrol,5,500
+Jeep,Compass 4xe,1.3L Turbo PHEV,,240,200,7.3,46500,Hybrid,5,270
+Acura,TLX V6 Advance,V6,3500,290,250,5.7,46000,Petrol,5,362
+Mercedes,BENZ GLC 350 ,I4,1991,255,250,6.1,46000,Petrol,5,500
+Volkswagen,Arteon,2.0L Turbo I4,1984,215,250,5.6,46000,Petrol,5,350
+Nissan,X-Trail Platinum Edition,1.5L Turbo Hybrid,1497,,190,8,46000,Hybrid,5,305
+Kia,EV6 Light,Electric Motor,,225,190,5.2,46000,Electric,5,350
+Nissan,370Z NISMO,3.7L V6,3696,,250,5.2,45790,Petrol,2,374
+Kia,Carnival Special Edition,3.5L V6,3500,290,220,8,45500,Petrol,8,355
+Chevrolet,Silverado 3500HD,6.6L V8 Diesel,6600,445,160,8.5,45500,Diesel,6,1234
+Nissan,Patrol Y60,4.2L Inline-6,4169,,160,12,45000,Diesel,7,330
+Gmc,Acadia Black Edition,3.6L V6 engine,3564,310,210,6.5,45000,Petrol,7,366
+Ford,Explorer,2.3L EcoBoost / 3.0L V6,,350,200,6,45000,Petrol,7,460
+Chevrolet,Blazer Premier,3.6L V6 Gasoline,3600,308,220,6.6,45000,Petrol,5,366
+Nissan,Maxima Platinum,3.5L V6,3498,,220,6.2,45000,Petrol,5,353
+Volkswagen,Amarok V6,3.0L V6 Turbo Diesel,2967,231,191,7.9,45000,Diesel,5,580
+Nissan,Leopard J. Ferie,3.0L V6 Turbo,2960,,215,6.5,45000,Petrol,5,340
+Gmc,Sierra Elevation,2.7L Turbo 4-cylinder,2700,310,190,7.6,45000,Petrol,5,583
+Ford,Ranger Raptor,2.7L Twin-Turbo V6,2700,392,200,6,45000,Petrol,5,583
+Ford,Bronco (2024),V6 EcoBoost,2700,310,200,6.7,45000,Petrol,5,542
+Mitsubishi,Lancer Evolution X,2.0L Turbocharged,2000,291,240,5,45000,Petrol,5,407
+Bmw,330i,I4,1998,255,250,5.6,45000,Petrol,5,400
+Volkswagen,Tiguan R-Line,2.0L I4 Turbo,1984,210,250,4.9,45000,Petrol,5,420
+Volkswagen,Polo GTI R5,1.6L Turbocharged Rally Engine,1598,272,200,4.1,45000,Petrol,5,400
+Acura,RDX Turbo AWD,Inline-4 Turbocharged,1500,272,210,6.6,45000,Petrol,5,400
+Volkswagen,ID.5,Electric,,236,180,8.4,45000,Electric,5,310
+Volkswagen,ID.4 Pro S,Electric,,201,180,7.8,45000,Electric,5,310
+Volkswagen,ID.3 GTX,Electric,,299,180,6.2,45000,Electric,5,310
+Peugeot,3008 Hybrid4,Hybrid I4+ Electric Motor,,300,235,6,45000,Hybrid,5,520
+Jaguar Land Rover,Jaguar XE,I4 Petrol,,250,250,6.5,45000,Petrol,5,365
+Acura,RDX Technology,I4 Turbocharged,,272,210,6.6,45000,Petrol,5,400
+Peugeot,3008 GT Hybrid,Hybrid I4,,300,235,6,45000,Hybrid,5,400
+Peugeot,Expert Electric,Electric Motor,,136,130,9.5,45000,Electric,5,260
+Peugeot,208 PSE (Peugeot Sport Engineered),Hybrid I4,,225,250,5.5,45000,Hybrid,5,360
+Mazda,Eunos Cosmo,2.0L Twin-Rotor Turbo,2000,280,240,6,45000,Petrol,4,300
+Nissan,Silvia,2.0L Turbo Inline-4,1998,,235,5.9,45000,Petrol,4,275
+Audi,A5 COUPE,I4,1984,248,240,6.3,45000,Petrol,4,500
+Volkswagen,Golf R Cabriolet,2.0L I4 Turbo,1984,265,250,5.9,45000,Petrol,4,380
+Toyota,GR YARIS,"1.6L,TURBOCHARGED INLINE-3",1618,268,230,5.5,45000,Petrol,4,390
+Nissan,Datsun 240Z (Classic),2.4L Inline-6,2393,,210,8,45000,Petrol,2,198
+Nissan,Datsun 240Z,2.4L Inline-6,2393,,210,8,45000,Petrol,2,198
+Volkswagen,Golf R,2.0L Turbo I4,1984,315,250,4.6,44640,Petrol,5,420
+Jeep,Renegade 4xe,1.3L Turbo PHEV,,240,200,7.5,44500,Hybrid,5,270
+Cadillac,XT5,3.6L V6 Gasoline,3600,310,210,6.5,44195,Petrol,5,366
+Toyota,SIENNA,V6,2494,245,190,8,44150,Petrol/Hybrid,7,360
+Kia,Telluride EX,3.8L V6,3778,291,240,7,44000,Petrol,7,355
+Nissan,Pathfinder Rock Creek Edition,3.5L V6,3498,,195,7.2,44000,Petrol,7,351
+Chevrolet,Blazer,3.6L V6 Gasoline,3600,308,220,6.6,44000,Petrol,5,366
+Gmc,Canyon Denali Black Edition,3.6L V6 engine,3564,308,180,6.9,44000,Petrol,5,373
+Honda,CIVIC TYPE R,I4,1996,315,272,5.7,44000,Petrol,5,400
+Bmw,125D,I4,1995,224,240,6.3,44000,Diesel,5,400
+Peugeot,508 Plug-In Hybrid,Hybrid I4 + Electric Motor,,225,210,7.5,44000,Hybrid,5,360
+Gmc,Sierra 2500HD,6.6L V8 Diesel,6600,401,175,7.5,43900,Diesel,6,629
+Gmc,Canyon AT4,2.7L Turbo 4-cylinder,2700,310,190,7.5,43900,Petrol,5,583
+Chevrolet,Traverse RS,3.6L V6 Gasoline,3600,310,210,7,43700,Petrol,7,360
+Jeep,Grand Cherokee L,3.6L V6 Pentastar Gasoline,3600,293,209,7.2,43530,Petrol,7,352
+Kia,Carnival MPV EX,3.5L V6,3500,290,220,8,43500,Petrol,8,355
+Chevrolet,Camaro SS,6.2L V8 Gasoline,6200,455,290,4.3,43500,Petrol,4,617
+Ford,Transit,EcoBlue Turbo Diesel,2000,170,160,12,43455,Diesel,15,405
+Toyota,TUNDRA HYBRID,V6,3456,344,220,6.2,43400,Hybrid,5,650
+Toyota,BZ4X,ELECTRIC,,218,200,7.5,43400,Electric,5,330
+Audi,Q5,I4,1984,248,240,6.3,43000,Petrol,5,500
+Nissan,X-Trail Tekna,1.5L Turbo Hybrid,1497,,190,8,43000,Hybrid,5,305
+Nissan,Pathfinder Rock Creek,3.5L V6,3498,,190,7.4,42820,Petrol,7,351
+Chevrolet,Silverado 1500,5.3L V8 Gasoline,5300,355,180,7,42795,Petrol,6,519
+Kia,Carnival EX,3.5L V6,3500,290,220,8,42500,Petrol,8,355
+Mitsubishi,Pajero,3.2L Diesel Turbo,3200,189,180,10.5,42500,Diesel,7,441
+Nissan,Pathfinder Hybrid,2.5L Inline-4 Hybrid,2488,,190,7.7,42500,Hybrid,7,329
+Mazda,CX-60,2.5L Inline-4,2500,187,200,8.5,42500,Petrol/Diesel,5,250
+Mazda,Premacy Hydrogen RE Hybrid,1.3L Wankel + Electric,1308,200,180,9.5,42500,Hybrid,5,260
+Mazda,Premacy Hydrogen RE,1.3L Wankel + Electric,1308,200,180,9.5,42500,Hybrid,5,260
+Ford,Bronco,2.3L EcoBoost / 2.7L V6,,292,200,7.5,42500,Petrol,4,500
+Jeep,Wrangler Rubicon,2.0L Turbo I4 Gasoline,2000,270,180,7.1,42100,Petrol,4,400
+Kia,Sorento X-Line,2.5L Turbocharged 4-Cylinder,2500,277,220,7,42000,Petrol,7,421
+Nissan,Infiniti G37*,3.7L V6,3696,,250,5.5,42000,Petrol,5,365
+Bmw,128ti,I4,1998,261,250,6.1,42000,Petrol,5,400
+Bmw,125i,I4,1998,224,240,6.1,42000,Petrol,5,400
+Acura,RDX Turbo SH-AWD,Turbocharged I4,1500,272,210,6.6,42000,Petrol,5,400
+Kia,SPORTAGE 2024(PLUG-IN HYBRID AWD),I4 + ELECTRIC,,261,180,7.9,42000,Plug-in Hybrid,5,350
+Volkswagen,Tiguan eHybrid,1.4L I4 Turbo + Electric Motor,,245,200,7.5,42000,Hybrid,5,400
+Peugeot,3008 Plug-In Hybrid,Hybrid I4 + Electric Motor,,225,210,7,42000,Hybrid,5,360
+Nissan,NV3500,5.6L V8,5552,,170,9,42000,Petrol,2,525
+Nissan,370Z Roadster,3.7L V6,3696,,250,5.5,41820,Petrol,2,366
+Nissan,Infiniti Q60*,3.0L V6 Twin-Turbo,2997,,250,5,41750,Petrol,4,400
+Jeep,Grand Cherokee,3.6L V6 Pentastar Gasoline,3600,293,209,7,41530,Petrol,5,352
+Kia,Telluride LX,3.8L V6,3778,291,240,7,41500,Petrol,7,355
+Mazda,CX-9,2.5L Turbocharged,2500,250,210,7.2,41500,Petrol,7,420
+Chevrolet,Silverado 2500HD,6.6L V8 Gasoline,6600,401,170,8,41500,Petrol,6,629
+Hyundai,IONIQ 6,Electric Motor,,320,185,5.2,41450,Electric,5,350
+Gmc,Acadia AT4,3.6L V6 Gasoline,3600,310,210,7.6,41400,Petrol,6,366
+Toyota,AVALON,V6,3456,301,220,6.9,41400,Petrol,5,400
+Cadillac,XT4 Sport,2.0L Turbo Inline-4 Gasoline,2000,235,220,7.4,41390,Petrol,5,350
+Jeep,Jeep Cherokee X Edition,3.2L V6 Pentastar Gasoline,3200,271,195,7.6,41295,Petrol,5,324
+Cadillac,CT5 Premium Luxury,2.0L Turbo Inline-4 Gasoline,2000,237,240,6.8,41290,Petrol,5,350
+Kia,SPORTAGE PHEV,I4 + ELECTRIC,,261,180,8,41000,Plug-in Hybrid,5,350
+Hyundai,IONIQ 5,ELECTRIC MOTOR,,225,185,7.4,41000,Electric,5,350
+Mitsubishi,Outlander PHEV,2.4L Hybrid,,248,170,10.5,41000,Hybrid,5,300
+Hyundai,Santa Cruz,2.5L Turbocharged Inline-4,2500,281,215,6.5,40799,Petrol,5,400
+Toyota,HIGHLANDER HYBRID,V6,3456,240,220,8.2,40400,Hybrid,7,350
+Tesla,Model 3,Single Electric Motor (RWD),,283,225,5.8,40240,Electric,5,420
+Honda,PILOT,V6,3471,285,209,6.3,40000,Petrol,8,360
+Gmc,Acadia SLE,3.6L V6 engine,3564,310,210,6.6,40000,Petrol,7,366
+Nissan,X-Terra Pro-4X,2.5L Inline-4,2498,,175,10.8,40000,Petrol,7,240
+Toyota,INNOVA HYCROSS,2.0L HYBRID,1987,184,165,9.5,40000,Hybrid,7,250
+Peugeot,5008 GT,Inline-4,1598,180,210,8.2,40000,Petrol,7,250
+Nissan,TITAN,V8,5598,400,200,5.9,40000,Petrol,5,560
+Volkswagen,Golf R32,3.2L VR6,3189,240,250,6.2,40000,Petrol,5,320
+Volkswagen,Amarok,3.0L V6 Turbo Diesel,2967,210,180,7.9,40000,Diesel,5,550
+Ford,Ranger (2024),I4 Turbo Diesel,2000,210,180,8,40000,Diesel,5,500
+Bmw,120i XDRIVE,I4,1998,178,230,7.2,40000,Petrol,5,300
+Kia,SPORTAGE 2024(SX TURBO AWD),I4,1998,240,210,6.5,40000,Petrol,5,400
+Volkswagen,Passat CC,2.0L I4 Turbo,1984,240,240,7.3,40000,Petrol,5,280
+Volkswagen,Golf TCR,2.0L I4 Turbo,1984,290,250,5.6,40000,Petrol,5,370
+Volkswagen,Golf 4MOTION,2.0L Diesel I4,1968,167,250,4.9,40000,Petrol,5,400
+Volkswagen,Passat Alltrack TDI,2.0L Diesel I4,1968,190,220,8,40000,Diesel,5,400
+Peugeot,508 GT,Inline-4,1598,225,235,6.8,40000,Petrol,5,300
+Nissan,Qashqai e-Power,1.5L Hybrid,1497,,200,7.5,40000,Hybrid,5,330
+Hyundai,KONA Electric,Electric Motor,,200,200,6.1,40000,Electric,5,395
+Volkswagen,Golf GTE,Plug-in Hybrid (1.4L I4 Turbo),,204,222,7.6,40000,Hybrid,5,350
+Peugeot,e-2008 GT,Electric Motor,,136,200,8.5,40000,Electric,5,260
+Jaguar Land Rover,Jaguar X-TYPE,I4 Petrol,,160,215,9,40000,Petrol,5,215
+Peugeot,Partner Electric,Electric Motor,,136,130,9,40000,Electric,5,260
+Ford,Edge,2.0L EcoBoost / 2.7L V6,,292,200,6.5,40000,Petrol,5,438
+Volkswagen,Scirocco R,2.0L Turbo I4,1984,280,250,5.5,40000,Petrol,4,350
+Mazda,RX-7,1.3L Rotary Twin-Turbo,1300,276,250,5.5,40000,Petrol,4,314
+Nissan,NV400,2.3L Inline-4 Diesel,2298,,150,15,40000,Diesel,3,360
+Volkswagen,Crafter,2.0L Turbo Diesel I4,1968,140,160,13,40000,Diesel,3,410
+Mitsubishi,Canter (Truck),3.0L Diesel,3000,150,120,,40000,Diesel,2,370
+Nissan,Z PROTO,V6,2998,400,290,4.1,40000,Petrol,2,475
+Nissan,Z (Fairlady Z),3.0L Twin-Turbo V6,2997,,250,4.5,40000,Petrol,2,475
+Toyota,TUNDRA,V8,5663,381,220,6.7,39900,Petrol,5,650
+Volkswagen,ID.4,Electric,,252,160,7.8,39735,Electric,5,310
+Kia,Carnival LXS,3.5L V6,3500,290,220,8,39500,Petrol,8,355
+Mazda,CX-8,2.2L Diesel,2200,187,200,9.2,39000,Diesel,7,450
+Nissan,Murano,3.5L V6,3498,,210,7.5,39000,Petrol,5,325
+Bmw,120i M SPORT,I4,1998,178,230,7.1,39000,Petrol,5,300
+Bmw,120D EFFICIENTDYNAMICS,I4,1995,163,225,7.7,39000,Diesel,5,400
+Audi,A4,I4,1984,248,240,6.5,39000,Petrol,5,400
+Nissan,Rogue Midnight Edition,1.5L Turbo Inline-3,1497,,180,8.2,39000,Petrol,5,300
+Jeep,Gladiator,3.6L V6 Pentastar Gasoline,3600,285,177,8.1,38775,Petrol,5,353
+Gmc,Terrain Denali,1.5L Turbo 4-cylinder,1500,175,190,9.5,38600,Petrol,5,275
+Toyota,HIGHLANDER,V6,3456,295,220,7.2,38400,Petrol/Hybrid,7,370
+Toyota,CROWN,HYBRID,2494,236,200,7.6,38400,Hybrid,5,400
+Cadillac,CT5,2.0L Turbo Inline-4 Gasoline,2000,237,240,6.6,38195,Petrol,5,350
+Peugeot,5008 GT Line,Inline-4,1598,180,200,9,38000,Petrol,7,250
+Gmc,Canyon SLT,2.5L I4 engine,2488,200,175,8.6,38000,Petrol,5,259
+Kia,SPORTAGE 2024(X-PRO PRESTIGE),I4,2480,187,200,8.1,38000,Petrol,5,400
+Kia,SPORTAGE 2024(TOP TRIM),I4,1998,240,210,6.7,38000,Petrol,5,400
+Nissan,X-Trail GT,2.0L Turbo Inline-4,1998,,215,6.4,38000,Petrol,5,310
+Bmw,120D XDRIVE,I4,1995,190,230,6.9,38000,Diesel,5,400
+Volkswagen,Golf Variant GTD,2.0L Diesel I4,1968,184,230,7.5,38000,Diesel,5,380
+Nissan,Rogue Platinum,1.5L Turbo Inline-3,1497,,180,8.2,38000,Petrol,5,300
+Hyundai,NEXO,Electric Motor,,161,180,7.8,38000,Hydrogen,5,400
+Peugeot,e-2008,Electric Motor,,136,150,8.5,38000,Electric,5,260
+Ford,Escape Plug-in Hybrid (2024),I4 Hybrid,,221,190,7.5,38000,Hybrid,5,210
+Gmc,Sierra 1500 Pro,4.3L V6 engine,4300,285,180,7.5,37700,Petrol,3,413
+Jeep,Cherokee,2.4L I4 Tigershark Gasoline,2400,180,195,8.5,37695,Petrol,5,230
+Mitsubishi,Pajero Sport,2.4L Diesel Turbo,2400,181,180,11,37500,Diesel,7,430
+Mitsubishi,Montero Sport,2.4L Diesel Turbo,2400,181,180,11,37500,Diesel,7,430
+Mitsubishi,Montero GLX,2.4L Diesel Turbo,2400,181,180,11,37500,Diesel,7,430
+Mitsubishi,Delica D:5,2.2L Diesel Turbo,2200,145,175,11,37500,Diesel,7,360
+Mitsubishi,Sigma,3.0L V6,3000,210,220,8.5,37500,Petrol,5,270
+Mitsubishi,Eclipse Cross PHEV,2.4L PHEV,2400,188,180,10.5,37500,Plug-in Hybrid,5,199
+Ford,Taurus,3.5L V6 / 2.0L EcoBoost,,282,220,6.5,37500,Petrol,5,400
+Mazda,RX-7 Spirit R,1.3L Inline-2 (Wankel),1308,280,250,5.5,37500,Petrol,2,290
+Cadillac,XT4,2.0L Turbo Inline-4 Gasoline,2000,235,220,7.6,37490,Petrol,5,350
+Toyota,4RUNNER ,V6,3956,270,200,7.5,37400,Petrol,5,400
+Chevrolet,Traverse LT,3.6L V6 Gasoline,3600,310,210,7.1,37200,Petrol,7,360
+Gmc,Sierra 1500,5.3L V8 Gasoline,5300,355,180,7.3,37100,Petrol,6,519
+Bmw,120i,I4,1998,178,230,7.1,37000,Petrol,5,300
+Peugeot,508 Saloon,Inline-4,1598,180,210,8.6,37000,Petrol,5,300
+Bmw,118i M SPORT,I3,1499,136,213,8.5,37000,Petrol,5,250
+Kia,SPORTAGE 2024(HYBRID AWD),I4 + ELECTRIC,,227,180,8,37000,Hybrid,5,350
+Ford,Transit Chassis Cab,EcoBlue Turbo Diesel,2000,170,160,11.5,37000,Diesel,2,405
+Toyota,GR COROLLA,"1.6L,TURBOCHARGED INLINE-3",1618,300,230,,36995,Petrol,5,370
+Gmc,Canyon,2.7L Turbo 4-cylinder,2700,310,190,7.6,36900,Petrol,5,583
+Gmc,Acadia,2.0L Turbo 4-cylinder,2000,228,200,7.8,36800,Petrol,7,350
+Gmc,Terrain AT4,1.5L Turbo 4-cylinder,1500,175,190,9.6,36500,Petrol,5,275
+Mazda,MX-5 Miata RF,2.0L SkyActiv-G,2000,181,225,6.5,36500,Petrol,2,205
+Gmc,Canyon Elevation,2.5L I4 engine,2488,200,175,8.5,36300,Petrol,5,259
+Chevrolet,Blazer LT,2.5L Inline-4 Gasoline,2500,193,200,9,36100,Petrol,5,255
+Kia,SPORTAGE 2024(X-PRO),I4,2480,187,200,8.1,36000,Petrol,5,400
+Kia,SPORTAGE SX TURBO,I4,1998,240,210,6.7,36000,Petrol,5,400
+Bmw,118D SPORT LINE,I4,1995,150,216,8.4,36000,Diesel,5,380
+Volkswagen,Passat Alltrack,2.0L Turbo Diesel I4,1968,215,220,7.8,36000,Diesel,5,400
+Kia,Niro SX Hybrid,1.6L Hybrid Turbocharged 4-Cylinder,1591,139,180,10.5,36000,Hybrid,5,265
+Bmw,118i SHADOW LINE,I3,1499,136,213,8.5,36000,Petrol,5,250
+Nissan,Qashqai Tekna,1.3L Turbo Hybrid Inline-4,1332,,190,9.2,36000,Hybrid,5,270
+Ford,E-Series Cutaway,V8 Gasoline Engine,7300,350,140,13,36000,Petrol,2,569
+Nissan,NV2500,4.0L V6,3954,,160,10,36000,Petrol,2,385
+Chevrolet,Traverse,3.6L V6 Gasoline,3600,310,210,7,35915,Petrol,7,360
+Kia,Sorento LX,2.5L 4-Cylinder,2500,191,210,8.5,35500,Petrol,7,246
+Peugeot,508,Inline-4,1998,180,235,8,35500,Petrol,5,300
+Jeep,Wrangler,3.6L V6 Pentastar Gasoline,3600,285,180,6.8,35195,Petrol,4,353
+Ford,Transit Custom,EcoBlue Turbo Diesel,2000,130,160,12.5,35000,Diesel,9,385
+Volkswagen,Transporter,2.0L I4 Turbo Diesel,1968,153,180,12.2,35000,Diesel,9,340
+Nissan,Xterra,4.0L V6,3954,,200,7.8,35000,Petrol,7,381
+Nissan,PATHFINDER,V6,3498,284,225,6.5,35000,Petrol,7,351
+Peugeot,5008,Inline-4,1998,165,200,9.5,35000,Diesel,7,400
+Volkswagen,Tiguan Allspace,2.0L Turbo I4,1984,207,215,7.6,35000,Petrol,7,320
+Volkswagen,Sharan Business,2.0L Diesel I4,1968,167,200,8.3,35000,Diesel,7,350
+Peugeot,5008 Allure Premium,Inline-4,1499,130,190,10.2,35000,Petrol,7,240
+Nissan,Serena e-Power,1.2L Hybrid,1198,,160,12,35000,Hybrid,7,320
+Nissan,MAXIMA,V6,3498,300,240,5.8,35000,Petrol,5,354
+Acura,TLX 2.4L,Inline-4,2400,206,210,6,35000,Petrol,5,247
+Audi,Q3,I4,1984,248,230,7.3,35000,Petrol,5,400
+Volkswagen,Golf Alltrack,2.0L Turbo Diesel I4,1968,174,210,7.1,35000,Petrol,5,350
+Volkswagen,Golf Variant Alltrack,2.0L Diesel I4,1968,175,220,7.8,35000,Petrol,5,320
+Peugeot,308 GTI,Inline-4,1598,270,250,6,35000,Petrol,5,330
+Peugeot,3008 GT,Inline-4,1598,200,220,7.5,35000,Petrol,5,280
+Peugeot,3008 GT Line,Inline-4,1598,180,210,8.5,35000,Petrol,5,250
+Peugeot,508 SW (Station Wagon),Inline-4,1598,180,220,8.4,35000,Petrol,5,300
+Bmw,118i SPORTLINE,I3,1499,136,213,8.5,35000,Petrol,5,250
+Bmw,118i URBAN LINE,I3,1499,136,213,8.5,35000,Petrol,5,250
+Peugeot,508 Allure,Inline-4,1499,180,225,8,35000,Petrol,5,250
+Gmc,Terrain All-Terrain Edition,1.5L Turbocharged I4 engine,1490,170,200,9.3,35000,Petrol,5,275
+Toyota,BZ3,ELECTRIC MOTOR,,241,160,7.5,35000,Electric,5,340
+Volkswagen,ID.3,Electric,,204,160,7.3,35000,Electric,5,310
+Volkswagen,ID.3 Pro,Electric,,204,160,7.3,35000,Electric,5,310
+Peugeot,e-208,Electric Motor,,136,150,8.1,35000,Electric,5,260
+Ford,Ranger,2.3L Turbo Inline-4 / 2.7L V6,,298,180,,35000,Petrol/Diesel,5,470
+Mazda,MX-30 Electric,Electric Motor,,143,140,9.7,35000,Electric,5,271
+Nissan,180SX,2.0L Turbo Inline-4,1998,,240,6.8,35000,Petrol,4,275
+Nissan,Silvia S15 Spec-R,2.0L Turbo Inline-4,1998,,240,5.6,35000,Petrol,4,300
+Volkswagen,Scirocco,2.0L Turbo I4,1984,202,233,6,35000,Petrol,4,350
+Volkswagen,Scirocco GTS,2.0L I4 Turbo,1984,220,246,6.5,35000,Petrol,4,350
+Volkswagen,Scirocco 16V,1.8L I4 Gas,1781,137,220,7.1,35000,Petrol,4,230
+Volkswagen,T-Roc Cabriolet,1.0L I3 Turbo / 1.5L I4 Turbo,,132,205,9.6,35000,Petrol,4,250
+Nissan,Atlas,3.0L Inline-4 Diesel,2999,,130,18,35000,Diesel,3,300
+Nissan,NT400 Cabstar,3.0L Inline-4 Diesel,2953,,140,15,35000,Diesel,3,350
+Peugeot,Boxer L2H2,Inline-4,2200,130,140,14,35000,Diesel,3,350
+Nissan,280ZX,2.8L Inline-6,2753,,205,9.5,35000,Petrol,2,210
+Chevrolet,Silverado 1500 Custom,4.3L V6 Gasoline,4300,285,180,8.6,34900,Petrol,6,413
+Kia,Niro SX Touring,1.6L 4-Cylinder Hybrid,1591,139,180,10.5,34500,Hybrid,5,265
+Cadillac,CT4,2.0L Turbo Inline-4 Gasoline,2000,237,250,6,34395,Petrol,5,350
+Bmw,118D,I4,1995,150,216,8.4,34000,Diesel,5,380
+Bmw,118i XDRIVE,I3,1499,136,211,8.9,34000,Petrol,5,250
+Chevrolet,Silverado Custom,4.3L V6 Gasoline,4300,285,180,8.5,33900,Petrol,6,413
+Mitsubishi,Outlander Black Edition,2.5L 4-Cylinder,2500,181,190,9.5,33500,Petrol,7,245
+Chevrolet,Malibu Premier,2.0L Turbo Inline-4 Gasoline,2000,250,240,5.8,33500,Petrol,5,353
+Toyota,VENZA,I4,2494,219,200,7.5,33400,Hybrid,5,400
+Chevrolet,Equinox Premier,1.5L Turbo Inline-4 Gasoline,1500,170,200,8.8,33400,Petrol,5,275
+Nissan,NV1500,4.0L V6,3954,261,160,9.5,33000,Petrol,12,385
+Volkswagen,Sharan,2.0L Turbo I4,1984,185,200,9.3,33000,Petrol/Diesel,7,280
+Peugeot,5008 Allure,Inline-4,1499,180,200,8.5,33000,Petrol,7,250
+Peugeot,5008 Active,Inline-4,1499,130,190,10.5,33000,Petrol,7,240
+Ford,Escape Hybrid,2.5L Inline-4 + Electric,2500,200,180,7.7,33000,Hybrid,5,
+Kia,SPORTAGE NIGHTFALL EDITION,I4,2480,187,200,8,33000,Petrol,5,350
+Kia,Niro Plug-In Hybrid,1.6L 4-Cylinder Hybrid,1591,139,180,10.5,33000,Hybrid,5,265
+Kia,Niro Touring,1.6L 4-Cylinder Hybrid,1591,139,180,10.5,33000,Hybrid,5,265
+Volkswagen,Golf Electric,Electric,,136,140,10.4,33000,Electric,5,290
+Mitsubishi,Outlander SEL,2.5L 4-Cylinder,2500,181,190,9.5,32500,Petrol,7,245
+Mitsubishi,Outlander LE,2.5L 4-Cylinder,2500,181,190,9.5,32500,Petrol,7,245
+Mitsubishi,Delica Space Gear,2.4L Petrol,2400,145,170,13,32500,Petrol,7,206
+Mitsubishi,Delica Van,2.0L Diesel / 2.2L Diesel,,145,175,11.5,32500,Diesel,7,360
+Mazda,Xedos 9,3.0L V6,3000,200,220,7.5,32500,Petrol,5,260
+Mazda,CX-50,2.5L Turbocharged,2500,256,220,6.9,32500,Petrol,5,434
+Mazda,Millenia S,2.5L V6,2500,200,220,8,32500,Petrol,5,250
+Kia,SPORTAGE X-LINE,I4,2480,187,200,8,32500,Petrol,5,350
+Mitsubishi,L200 Barbarian X,2.4L Diesel Turbo,2400,181,177,10.5,32500,Diesel,5,430
+Ford,Fusion (Mondeo),1.5L EcoBoost / 2.0L Hybrid,,205,220,7.5,32500,Petrol/Hybrid,5,300
+Mazda,Sentia Hardtop Coupe,2.5L V6,2500,160,210,8,32500,Petrol,4,220
+Mazda,MX-5 Superlight Concept,1.8L Inline-4,1798,143,200,7.5,32500,Petrol,2,160
+Mazda,Cosmo Sport (110S),1.0L Inline-2 (Wankel),1000,110,170,10,32500,Petrol,2,150
+Volkswagen,Teramont,2.0L I4 Turbo / 3.6L V6 Gas,,256,190,8.6,32000,Petrol,7,350
+Nissan,Leopard,3.0L V6,2960,,200,8.4,32000,Petrol,5,265
+Kia,SPORTAGE GT-LINE,I4,2480,187,200,8,32000,Petrol,5,350
+Nissan,Navara,2.3L Inline-4 Diesel,2298,,180,10.2,32000,Diesel,5,450
+Nissan,Rogue Sport SL,2.0L Inline-4,1998,,190,9,32000,Petrol,5,195
+Peugeot,3008,Inline-4,1598,180,210,7.5,32000,Petrol,5,400
+Kia,Seltos SX Turbo,1.6L Turbocharged 4-Cylinder,1591,175,210,7.5,32000,Petrol,5,264
+Ford,Territory,Turbocharged Inline-4,1500,140,180,11,32000,Petrol,5,225
+Bmw,118i,I3,1499,136,213,8.5,32000,Petrol,5,220
+Peugeot,3008 Allure Premium,Inline-4,1499,130,200,9.8,32000,Petrol,5,240
+Volkswagen,Passat Hybrid,1.4L I4 Turbo + Electric Motor,1395,215,210,7.4,32000,Hybrid,5,330
+Volkswagen,Golf Variant,1.5L Turbo I4 / 2.0L Diesel I4,,140,220,7.5,32000,Petrol,5,320
+Ford,Bronco Sport,1.5L EcoBoost / 2.0L EcoBoost,,216,185,7,32000,Petrol,5,312
+Peugeot,Boxer,Diesel I4,2200,140,160,11,32000,Diesel,3,340
+Volkswagen,Golf GTI,2.0L Turbo I4,1984,245,250,5.9,31965,Petrol,5,350
+Chevrolet,Equinox RS,1.5L Turbo Inline-4 Gasoline,1500,170,200,8.8,31900,Petrol,5,275
+Chevrolet,Bolt EV Premier,Single Electric Motor,,200,150,6.5,31700,Electric,5,360
+Jeep,Compass,2.0L Turbo Gasoline,2000,200,200,7.8,31590,Petrol,5,320
+Mitsubishi,Outlander,2.5L 4-Cylinder,2500,181,190,9.5,31500,Petrol,7,245
+Mitsubishi,Endeavor,3.8L V6,3800,225,190,9.5,31500,Petrol,5,343
+Ford,Escape (Kuga),1.5L EcoBoost / 2.5L Hybrid,,190,190,7.5,31500,Petrol/Hybrid,5,215
+Toyota,PRIUS PRIME,"2.0L,4-CYLINDER,WITH HYBRID SYSTEM",1998,220,180,6.7,31100,Plug-in Hybrid,5,220
+Ford,Flex,Naturally Aspirated V6,3500,287,200,7.9,31000,Petrol,7,345
+Mazda,BT-50,3.2L Turbo Diesel,3200,200,180,10,31000,Diesel,5,470
+Mazda,Mazda6,2.5L Turbocharged,2500,250,240,6.4,31000,Petrol,5,420
+Mitsubishi,Triton Athlete,2.4L Diesel Turbo,2400,181,177,10.5,31000,Diesel,5,430
+Mitsubishi,Triton GLX-R,2.4L Diesel Turbo,2400,181,177,10.5,31000,Diesel,5,430
+Volkswagen,Jetta GLI,2.0L I4 Turbo,1984,228,250,6.5,31000,Petrol,5,350
+Volkswagen,Jetta GLI 35th,2.0L I4 Turbo,1984,228,250,6.5,31000,Petrol,5,350
+Bmw,116D ADVANTAGE,I3,1496,116,200,10.5,31000,Diesel,5,270
+Gmc,Terrain SLT,1.5L Turbocharged I4 engine,1490,170,200,9.4,31000,Petrol,5,275
+Chevrolet,Colorado,2.7L Turbo Inline-4 Gasoline,2700,310,190,6.8,30695,Petrol,5,583
+Mitsubishi,Outlander SE,2.5L 4-Cylinder,2500,181,190,9.5,30500,Petrol,7,245
+Hyundai,Tucson,2.5L Inline-4,2500,187,180,6.1,30500,Petrol/Hybrid,5,400
+Mazda,CX-7,2.3L Turbocharged,2300,244,210,7.9,30500,Petrol,5,350
+Nissan,Caravan Coach,2.5L Inline-4 Diesel,2498,,140,14,30000,Diesel,7,260
+Nissan,FRONTIER,V6,3799,310,180,6.8,30000,Petrol,5,381
+Nissan,Gloria,2.5L V6,2498,,210,8.6,30000,Petrol,5,250
+Kia,SPORTAGE EX,I4,2480,187,200,8,30000,Petrol,5,250
+Acura,ILX Technology Package,Inline-4,2400,201,200,6.6,30000,Petrol,5,180
+Acura,ILX Special Edition,Inline-4,2400,201,200,6.6,30000,Petrol,5,180
+Mitsubishi,Triton (L200),2.4L Diesel Turbo,2400,181,177,10.5,30000,Diesel,5,430
+Ford,Focus ST,2.3L Turbo Inline-4,2300,280,250,5.7,30000,Petrol,5,420
+Bmw,M135i XDRIVE,I4,1998,302,250,4.8,30000,Petrol,5,450
+Nissan,Pulsar GTI-R,2.0L Turbo Inline-4,1998,,225,6,30000,Petrol,5,280
+Volkswagen,T-Roc,2.0L Turbo I4,1984,208,205,7.2,30000,Petrol,5,320
+Volkswagen,Polo GTI Clubsport,2.0L I4 Turbo,1984,300,240,6.7,30000,Petrol,5,320
+Volkswagen,Polo GTI Plus,2.0L I4 Turbo,1984,207,237,6.7,30000,Petrol,5,320
+Volkswagen,Golf Variant TDI,2.0L Diesel I4,1968,167,220,7.8,30000,Diesel,5,350
+Kia,Niro EX,1.6L 4-Cylinder Hybrid,1591,139,180,10.5,30000,Hybrid,5,265
+Kia,Seltos X-Line Turbo,1.6L Turbocharged 4-Cylinder,1591,175,210,7.5,30000,Petrol,5,264
+Peugeot,3008 Allure,Inline-4,1499,180,210,8,30000,Petrol,5,250
+Peugeot,3008 Active,Inline-4,1499,130,200,10,30000,Petrol,5,240
+Honda,CR-V,I4,1498,190,186,8.2,30000,Petrol/Hybrid,5,400
+Volkswagen,Golf Sportsvan,1.5L Turbo I4,1498,140,210,8.9,30000,Petrol,5,250
+Volkswagen,Golf TGI,1.5L I4 CNG,1498,130,220,8.8,30000,Petrol,5,200
+Bmw,116D,I3,1496,116,200,10.3,30000,Diesel,5,280
+Bmw,116D EFFICIENTDYNAMICS,I3,1496,116,200,10.9,30000,Diesel,5,270
+Volkswagen,Passat Variant,1.5L I4 Turbo / 2.0L Diesel,,195,220,8.5,30000,Petrol,5,280
+Acura,ILX Premium,I4,,201,200,6.6,30000,Petrol,5,180
+Toyota,TOYOTA  GR86,BOXER-4,2387,228,226,5.6,30000,Petrol,4,250
+Nissan,200SX,2.0L Turbo Inline-4,1998,,240,7.2,30000,Petrol,4,265
+Volkswagen,Beetle Dune,1.4L I4 Turbo,1395,150,200,7.5,30000,Petrol,4,250
+Volkswagen,Golf Cabriolet,1.2L I4 Turbo / 2.0L I4 Turbo,,158,217,8.4,30000,Petrol,4,200
+Peugeot,Expert,Diesel I4,1997,120,180,10,30000,Diesel,3,300
+Peugeot,Expert L2H1,Inline-4,1997,120,160,13,30000,Diesel,3,320
+Nissan,370Z,V6,3696,332,250,4.7,30000,Petrol,2,366
+Mazda,MX-5 Miata,2.0L SkyActiv-G,2000,181,225,6.5,30000,Petrol,2,205
+Mazda,Savanna RX-7,1.3L Inline-2 (Wankel),1308,165,230,7.5,30000,Petrol,2,230
+Gmc,Terrain,1.5L Turbo 4-cylinder,1500,175,190,9.5,29900,Petrol,5,275
+Honda,ACCORD,I4,1498,192,201,7.1,29400,Petrol,5,370
+Ford,Transit Connect,Inline-4 Gasoline Engine,2000,162,175,10.5,29365,Petrol,7,200
+Chevrolet,Colorado WT,2.7L Turbo Inline-4 Gasoline,2700,310,190,6.9,29200,Petrol,5,583
+Mitsubishi,Outlander ES,2.5L 4-Cylinder,2500,181,190,9.5,29000,Petrol,7,245
+Mazda,CX-5,2.5L SkyActiv-G,2500,187,200,8.8,29000,Petrol,5,252
+Kia,SPORTAGE 2024(BASE AWD),I4,2480,187,200,8.3,29000,Petrol,5,250
+Bmw,116i EFFICIENTDYNAMICS,I4,1598,109,195,10.9,29000,Petrol,5,200
+Kia,K5 GT-Line,1.6L Turbocharged 4-Cylinder,1591,180,220,7.8,29000,Petrol,5,264
+Mitsubishi,Eclipse Cross Black Edition,1.5L Turbo,1500,152,180,9.8,29000,Petrol,5,250
+Nissan,X-Trail,1.5L Turbocharged Inline-3,1498,,200,8,29000,Hybrid,5,305
+Toyota,MR2,I4,1986,168,200,6.9,29000,Petrol,2,400
+Chevrolet,Bolt EUV,Single Electric Motor,,200,150,7,28795,Electric,5,360
+Chevrolet,Bolt EV 2LT,Single Electric Motor,,200,150,6.7,28795,Electric,5,360
+Gmc,Terrain Elevation Edition,1.5L Turbocharged I4 engine,1490,170,200,9.3,28700,Petrol,5,275
+Volkswagen,Tiguan,2.0L Turbo I4,1984,190,209,8.5,28505,Petrol/Hybrid,7,300
+Nissan,X-Trail Hybrid,2.0L Inline-4 Hybrid,1997,,180,9.4,28500,Hybrid,5,207
+Kia,K5 EX,1.6L Turbocharged 4-Cylinder,1591,180,220,7.8,28500,Petrol,5,264
+Kia,Seltos SX,1.6L Turbocharged 4-Cylinder,1591,175,210,7.5,28500,Petrol,5,264
+Chevrolet,Equinox LT,1.5L Turbo Inline-4 Gasoline,1500,170,200,8.9,28400,Petrol,5,275
+Jeep,Renegade,1.3L Turbo I4 Gasoline,1300,177,200,8.7,28345,Petrol,5,285
+Nissan,Urvan,2.5L Turbo Diese,,,140,14,28000,Diesel,15,356
+Nissan,NV350 Caravan,2.5L Inline-4 Diesel,2488,,155,12.5,28000,Diesel,8,356
+Nissan,NV200,2.0L Inline-4,1998,,140,14,28000,Petrol,7,188
+Volkswagen,Caddy,1.5L Turbo I4,1498,126,185,10.5,28000,Petrol/Diesel,7,250
+Nissan,Terrano Regulus,3.3L V6,3275,,175,10,28000,Petrol,5,290
+Nissan,Terrano II,2.7L Inline-4 Diesel,2664,,160,12.9,28000,Diesel,5,278
+Nissan,ROGUE,I4,2488,201,200,7.5,28000,Petrol,5,270
+Kia,SPORTAGE 2024(S TRIM),I4,2480,187,200,8.2,28000,Petrol,5,250
+Acura,ILX Technology Plus,Inline-4,2400,201,200,6.6,28000,Petrol,5,180
+Volkswagen,Polo GTI,2.0L Turbo I4,1984,204,238,6.7,28000,Petrol,5,320
+Volkswagen,Golf TDI,2.0L Diesel I4,1968,167,220,8,28000,Diesel,5,350
+Peugeot,308,Inline-4,1598,130,200,8,28000,Petrol,5,230
+Peugeot,208 GTI,Inline-4,1598,208,230,6.5,28000,Petrol,5,300
+Kia,Seltos Nightfall Edition,1.6L Turbocharged 4-Cylinder,1591,175,210,7.5,28000,Petrol,5,264
+Kia,Soul Turbo,1.6L Turbocharged 4-Cylinder,1591,201,200,6.5,28000,Petrol,5,264
+Bmw,116i,I3,1499,109,200,10.9,28000,Petrol,5,200
+Bmw,114D SPORT LINE,I3,1496,95,185,12.2,28000,Diesel,5,270
+Volkswagen,Jetta Hybrid,1.4L I4 Turbo + Electric Motor,1395,170,210,8.6,28000,Hybrid,5,250
+Peugeot,208 Allure Premium,Inline-4,1199,130,200,9.5,28000,Petrol,5,230
+Peugeot,308 Saloon,Inline-4,1199,130,200,9,28000,Petrol,5,230
+Ford,Puma,Turbocharged Inline-3,1000,123,191,9.6,28000,Petrol,5,200
+Volkswagen,Passat B8,1.5L I4 Turbo / 2.0L Diesel,,215,210,8.7,28000,Petrol,5,250
+Mazda,MPV,3.0L V6,3000,200,185,9.5,27500,Petrol,7,265
+Mitsubishi,Grandis,2.4L MIVEC,2400,165,190,11,27500,Petrol,7,217
+Mazda,929,3.0L V6,3000,205,220,8,27500,Petrol,5,270
+Mazda,Xedos 6,2.5L V6,2500,170,215,8.5,27500,Petrol,5,230
+Mazda,Millenia,2.3L Miller Cycle V6,2300,210,215,8.2,27500,Petrol,5,280
+Mazda,RX-5,1.6L Inline-2 (Wankel),1588,135,190,8,27500,Petrol,4,210
+Mitsubishi,Colt CZC Convertible,1.5L Turbocharged,1500,147,200,9.5,27500,Petrol,4,210
+Mazda,Luce Rotary Coupe,1.3L Wankel Rotary Engine,1308,135,175,12,27500,Petrol,4,180
+Mazda,Titan (Truck),3.0L Inline-4,3000,130,120,15,27500,Diesel,2,300
+Chevrolet,Bolt EV,Single Electric Motor,,200,150,6.5,27495,Electric,5,360
+Toyota,RAV4,I4,2494,203,200,8.1,27100,Petrol/Hybrid,5,400
+Toyota,CAMRY,V6,3500,301,220,6,27000,Petrol/Hybrid,5,250
+Mazda,Tribute,3.0L V6,3000,200,190,9,27000,Petrol,5,270
+Kia,SPORTAGE LX,I4,2480,187,200,8,27000,Petrol,5,250
+Mitsubishi,ASX Exceed,2.0L MIVEC,2000,148,190,10,27000,Petrol,5,197
+Bmw,114D,I3,1496,95,185,12.2,27000,Diesel,5,270
+Peugeot,2008 Allure,Inline-4,1199,130,200,9.7,27000,Petrol,5,230
+Volkswagen,T-Cross R-Line,1.0L I3 Turbo / 1.5L I4 Turbo,,132,200,8.5,27000,Petrol,5,250
+Volkswagen,Jetta SportWagen,1.4L I4 Turbo / 2.0L Diesel I4,,148,200,8.5,27000,Petrol,5,250
+Toyota,TOYOTA 86,BOXER-4,1998,205,226,6.4,27000,Petrol,4,205
+Nissan,Cabstar,2.5L Inline-4 Diesel,2488,,145,14.8,27000,Diesel,3,350
+Toyota,PRIUS,I4,1798,121,180,10.5,26700,Hybrid,5,142
+Chevrolet,Equinox,1.5L Turbo Inline-4 Gasoline,1500,170,200,8.9,26600,Petrol,5,275
+Kia,SPORTAGE 2024(BASE FWD),I4,2480,187,200,8.5,26500,Petrol,5,250
+Mitsubishi,ASX Dynamic,2.0L MIVEC,2000,148,190,10,26500,Petrol,5,197
+Mazda,Eunos 500,2.0L Inline-4,1998,135,200,9,26500,Petrol,5,170
+Mitsubishi,Eclipse Cross,1.5L Turbo,1500,152,180,9.8,26500,Petrol,5,250
+Toyota,TACOMA,I4,2694,159,180,9.5,26400,Petrol,5,400
+Chevrolet,Camaro,2.0L Turbo Inline-4 Gasoline,2000,275,240,5.4,26400,Petrol,4,400
+Honda,CIVIC HATCHBACK,I4,1498,180,220,6.8,26350,Petrol,5,300
+Mazda,Mazda3 Hatchback,2.5L SkyActiv-G,2500,186,210,8.3,26000,Petrol,5,252
+Kia,SPORTAGE 2024(BASE MODEL),I4,2480,187,200,8,26000,Petrol,5,250
+Bmw,114i,I4,1598,102,195,11.2,26000,Petrol,5,200
+Nissan,Qashqai,1.3L Turbocharged Inline-4,1332,,195,8.9,26000,Petrol,5,260
+Volkswagen,Passat B7,1.6L Diesel / 2.0L I4 Turbo,,180,220,8.5,26000,Petrol,5,280
+Ford,Maverick,2.5L Hybrid / 2.0L EcoBoost,,220,180,,26000,Petrol/Hybrid,5,315
+Chevrolet,Malibu LT,1.5L Turbo Inline-4 Gasoline,1500,160,210,8.5,25800,Petrol,5,250
+Tata Motors,Safari,2.0L Kryotec Turbocharged Diesel,1956,168,180,11,25500,Diesel,7,350
+Mazda,CX-30,2.5L SkyActiv-G,2500,186,204,8.7,25500,Petrol,5,252
+Kia,Forte GT Turbo,1.6L Turbocharged 4-Cylinder,1591,201,200,6.5,25500,Petrol,5,264
+Toyota,COROLLA HATCHBACK XSE,"2.0L,INLINE-4",1987,169,190,8.2,25390,Petrol,5,250
+Nissan,Mistral,2.7L Turbo Diesel,2663,,160,12.5,25000,Diesel,7,260
+Volkswagen,Caddy Maxi,2.0L Diesel I4,1968,136,180,12,25000,Diesel,7,250
+Nissan,Evalia,1.5L Inline-4 Diesel,1461,,140,15,25000,Diesel,7,200
+Mazda,Sentia,3.0L V6,3000,200,200,9,25000,Petrol,5,265
+Hyundai,Sonata,2.5L Inline-4,2500,191,240,8,25000,Petrol/Hybrid,5,250
+Mazda,Atenza,2.5L SkyActiv-G,2500,192,210,8.5,25000,Petrol,5,252
+Nissan,ALTIMA,I4,2488,188,225,7.3,25000,Petrol,5,380
+Nissan,Hardbody Truck,2.4L Inline-4,2389,,160,10.6,25000,Petrol,5,206
+Mazda,CX-4,2.0L SkyActiv-G,2000,158,190,9.6,25000,Petrol,5,202
+Toyota,CELICA,I4,1986,140,200,8.5,25000,Petrol,5,250
+Volkswagen,Passat,2.0L Turbo I4,1984,215,210,7.8,25000,Petrol,5,250
+Volkswagen,Golf Country,1.8L I4 Gas,1781,98,165,12,25000,Petrol,5,170
+Kia,Forte GT-Line,1.6L Turbocharged 4-Cylinder,1591,201,200,6.5,25000,Petrol,5,264
+Peugeot,Partner Tepee,Inline-4,1560,100,170,12,25000,Diesel,5,260
+Chevrolet,Malibu,1.5L Turbo Inline-4 Gasoline,1500,160,210,8,25000,Petrol,5,250
+Toyota,URBAN CRUISER TAISOR,"1.5L,HYBRID",1490,114,170,11,25000,Petrol,5,130
+Peugeot,2008,Inline-4,1199,100,190,9,25000,Petrol,5,205
+Peugeot,308 Allure,Inline-4,1199,130,205,9.3,25000,Petrol,5,230
+Peugeot,2008 GT,Inline-4,1199,130,200,9.3,25000,Petrol,5,230
+Nissan,Juke,1.0L Turbocharged Inline-3,999,,180,10.4,25000,Petrol,5,180
+Volkswagen,T-Cross,1.0L Turbo I3 / 1.5L Turbo I4,,122,200,10.2,25000,Petrol,5,250
+Volkswagen,ID.2,Electric,,,160,8,25000,Electric,5,220
+Tata Motors,Nexon EV Max,Permanent Magnet Synchronous,,143,140,9,25000,Electric,5,250
+Ford,Focus,1.0L EcoBoost / 1.5L / 2.0L,,210,220,6.5,25000,Petrol,5,275
+Ford,Maverick Hybrid,I4 Hybrid,,191,180,7.8,25000,Hybrid,5,210
+Volkswagen,Corrado,2.9L VR6,2861,190,235,6.4,25000,Petrol,4,245
+Hyundai,Veloster,2.0L Inline-4,2000,275,220,6,25000,Petrol,4,264
+Volkswagen,Beetle Final Edition,2.0L I4 Turbo,1984,174,205,7,25000,Petrol,4,250
+Nissan,Datsun 510 (Classic),1.6L Inline-4,1595,,175,10.2,25000,Petrol,4,135
+Nissan,Datsun 510,1.6L Inline-4,1595,,175,10.2,25000,Petrol,4,135
+Volkswagen,Karmann Ghia,1.2L I4 Gas,1192,47,138,23,25000,Petrol,2,106
+Nissan,Rogue Sport,2.0L Inline-4,1997,,190,9.8,24960,Petrol,5,199
+Mitsubishi,ASX (Outlander Sport),2.0L MIVEC,2000,148,190,10,24500,Petrol,5,197
+Mitsubishi,i-MiEV (Electric),Electric Motor,,66,130,15,24500,Electric,4,196
+Toyota,C-HR,I4,1986,144,200,10.2,24400,Petrol/Hybrid,5,250
+Chevrolet,Trax LT,1.2L Turbo Inline-3 Gasoline,1200,137,200,9.2,24100,Petrol,5,220
+Mazda,Biante,2.0L Inline-4,2000,150,185,10,24000,Petrol,7,200
+Mitsubishi,RVR SE,2.0L MIVEC,2000,148,190,10.5,24000,Petrol,5,197
+Mazda,Mazda3,2.0L SkyActiv-G,2000,155,200,8.9,24000,Petrol,5,213
+Toyota,COROLLA SEDAN HYBRID,"1.8L,HYBRID",1798,134,180,10,24000,Hybrid,5,300
+Nissan,Sunny NISMO Edition,1.6L Turbo Inline-4,1598,,200,7.5,24000,Petrol,5,240
+Volkswagen,Taigo,1.5L Turbo I4,1498,122,183,10,24000,Petrol,5,200
+Volkswagen,Taos,1.5L I4 Turbo,1498,158,193,8.4,24000,Petrol,5,250
+Kia,Seltos EX,2.0L 4-Cylinder,1999,146,190,9,23500,Petrol,5,179
+Kia,Soul EX Designer Edition,2.0L 4-Cylinder,1999,147,190,9.5,23500,Petrol,5,179
+Peugeot,301,Inline-4,1598,115,185,10,23500,Petrol,5,150
+Chevrolet,Trailblazer,1.3L Turbo Inline-3 Gasoline,1300,155,200,9.4,23100,Petrol,5,236
+Mazda,CX-3,2.0L SkyActiv-G,2000,146,180,9.5,23000,Petrol,5,197
+Kia,Seltos LX,2.0L 4-Cylinder,1999,146,190,9.2,23000,Petrol,5,179
+Kia,Soul GT Designer Edition,2.0L 4-Cylinder,1999,147,190,9.5,23000,Petrol,5,179
+Nissan,Bluebird Z,2.0L Inline-4,1998,,190,11,23000,Petrol,5,180
+Tata Motors,Harrier,2.0L Kryotec Turbocharged Diesel,1956,168,180,11,23000,Diesel,5,350
+Ford,Fiesta ST,1.5L Turbo Inline-3,1500,200,230,6.5,23000,Petrol,5,290
+Volkswagen,Golf,1.5L Turbo I4 / Electric,,215,210,8.5,23000,Petrol,5,250
+Volkswagen,Up! e-up!,Electric,,83,130,11.9,23000,Electric,4,210
+Mitsubishi,Xpander,1.5L MIVEC,1500,105,170,13.5,22500,Petrol,7,141
+Mitsubishi,Xpander Cross,1.5L MIVEC,1500,105,170,12,22500,Petrol,7,141
+Mazda,Proceed Marvie,2.6L Inline-4,2600,120,160,12,22500,Petrol,5,200
+Mazda,B-Series Pickup,2.5L Diesel,2500,143,170,11.5,22500,Diesel,5,330
+Mitsubishi,Airtrek,2.4L 4-Cylinder,2400,160,190,11,22500,Petrol,5,214
+Mitsubishi,Lancer SE Limited,2.0L MIVEC,2000,148,200,10,22500,Petrol,5,197
+Kia,Forte EX Premium,2.0L 4-Cylinder,1999,147,190,9.2,22500,Petrol,5,179
+Kia,Forte Limited Edition,2.0L 4-Cylinder,1999,147,190,9.2,22500,Petrol,5,179
+Mitsubishi,Grand Lancer,1.8L MIVEC,1800,138,190,11.5,22500,Petrol,5,173
+Mazda,Parkway,1.8L Inline-4,1800,115,160,12.5,22500,Petrol,5,155
+Toyota,COROLLA,I4,1798,139,180,9.4,22500,Petrol/Hybrid,5,200
+Peugeot,Partner,Diesel I4,1560,75,160,12,22500,Diesel,5,200
+Mazda,Roadpacer AP,1.3L Rotary,1300,130,170,11.5,22500,Petrol,5,165
+Ford,EcoSport,1.0L Turbo Inline-3 / 2.0L,,144,180,9,22500,Petrol,5,185
+Mitsubishi,Lancer EX,1.6L MIVEC / 2.0L,,132,200,10,22500,Petrol,5,176
+Mazda,RX-2,1.3L Inline-2 (Wankel),1308,130,185,8.5,22500,Petrol,4,220
+Mazda,Bongo Friendee,2.5L Inline-4,2500,115,160,12.5,22000,Petrol/Diesel,7,160
+Nissan,Stanza Wagon,2.4L Inline-4,2389,,160,12,22000,Petrol,7,205
+Nissan,Laurel,2.8L Inline-6 Diesel,2825,,160,12.5,22000,Diesel,5,184
+Hyundai,Elantra GT,1.6L Turbo GDI 4-cylinder,2000,160,200,8.3,22000,Petrol,5,320
+Kia,Soul EX,2.0L 4-Cylinder,1999,147,190,9.5,22000,Petrol,5,179
+Nissan,Cedric,2.0L Inline-6,1998,,190,10.5,22000,Petrol,5,190
+Mazda,Astina,1.8L Inline-4,1800,140,190,8.5,22000,Petrol,5,160
+Volkswagen,Polo BlueMotion,1.2L Diesel I3,1199,85,190,10.5,22000,Diesel,5,250
+Peugeot,208,Inline-4,1199,82,180,10.5,22000,Petrol,5,160
+Peugeot,2008 Active,Inline-4,1199,100,190,11.2,22000,Petrol,5,205
+Peugeot,208 Sedan,Inline-4,1199,100,190,11.2,22000,Petrol,5,205
+Volkswagen,Polo Beats,1.0L I3 Turbo,999,95,187,9.5,22000,Petrol,5,175
+Tata Motors,Nexon EV Prime,Permanent Magnet Synchronous,,129,120,9.4,22000,Electric,5,245
+Nissan,NX Coupe,2.0L Inline-4,1998,,200,9,22000,Petrol,4,180
+Volkswagen,Jetta,1.5L Turbo I4,1498,189,210,7.7,21995,Petrol,5,250
+Mitsubishi,Chariot,2.0L MIVEC,2000,140,185,10.5,21500,Petrol,7,170
+Mitsubishi,Space Runner,1.8L MIVEC,1800,140,185,10.5,21500,Petrol,5,170
+Mazda,Premacy,2.0L Inline-4,2000,138,190,9.8,21000,Petrol,7,180
+Mazda,Familia Astina,1.8L Inline-4,1800,135,200,8.5,21000,Petrol,5,170
+Mazda,MX-6,2.5L V6,2500,164,210,8.8,21000,Petrol,4,215
+Kia,Soul S,2.0L 4-Cylinder,1999,147,190,9.5,20500,Petrol,5,179
+Hyundai,Kona,1.6L PETROL ,1591,147,185,,20500,Petrol/EV,5,400
+Honda,CIVIC,I4,1996,158,200,8.5,20400,Petrol,5,400
+Mahindra,THAR,"2.0L,4-CYLINDER,INLINE-4(I4)",1997,150,180,10.5,20400,Petrol/Diesel,4,320
+Tata Motors,Hexa,2.2L Varicor Diesel,2179,154,180,12,20000,Diesel,7,400
+Mazda,Cronos,2.5L V6,2500,160,190,8.5,20000,Petrol,5,210
+Nissan,Paladin,2.4L Inline-4,2438,,180,10.6,20000,Petrol,5,217
+Mitsubishi,Galant Fortis,2.0L MIVEC,2000,154,200,10,20000,Petrol,5,200
+Mazda,626,2.0L Inline-4,2000,140,190,9.5,20000,Petrol,5,180
+Nissan,SENTRA,I4,1998,149,200,8.2,20000,Petrol,5,240
+Nissan,Primera,2.0L Inline-4,1998,,200,9.6,20000,Petrol,5,190
+Nissan,Avenir,2.0L Inline-4,1998,,180,9.8,20000,Petrol,5,186
+Nissan,Kicks,1.6L Inline-4,1598,,180,10.7,20000,Petrol,5,154
+Peugeot,301 Sedan,Inline-4,1199,82,180,12,20000,Petrol,5,115
+Volkswagen,Bora,1.6L I4 Gas / 1.9L I4 Diesel,,125,200,9.4,20000,Petrol,5,220
+Volkswagen,Polo TDI,1.4L I4 Diesel / 1.6L Diesel,,90,190,9.9,20000,Diesel,5,250
+Ford,Fiesta,1.0L EcoBoost / 1.5L,,142,200,7,20000,Petrol,5,210
+Mazda,Capella Cargo,2.0L Inline-4,2000,115,180,12,20000,Petrol,4,160
+Volkswagen,Beetle,2.0L Turbo I4,1984,158,205,7,20000,Petrol,4,240
+Nissan,Silvia S13,1.8L Turbo Inline-4,1809,,215,6.8,20000,Petrol,4,230
+Mazda,MX-3,1.6L Inline-4,1598,130,190,8.5,20000,Petrol,4,140
+Volkswagen,Volkswagen Lupo 3L,1.2L Diesel I3,1199,61,165,14.5,20000,Diesel,4,140
+Volkswagen,Up! GTI,1.0L Turbo I3,999,115,196,8.8,20000,Petrol,4,200
+Nissan,Figaro,1.0L Turbo Inline-4,987,,170,12.8,20000,Petrol,4,103
+Mazda,Bongo Van,2.0L Inline-4,2000,100,160,14,20000,Petrol/Diesel,3,140
+Mazda,Rotary Pickup,1.3L Wankel Rotary Engine,1308,130,150,14.5,20000,Petrol,2,160
+Hyundai,Elantra,2.0L Inline-4,2000,147,210,8.3,19950,Petrol/Hybrid,5,250
+Tata Motors,Aria,2.2L Dicor Diesel,2179,138,162,13,19000,Diesel,7,320
+Kia,Forte LXS,2.0L 4-Cylinder,1999,147,190,9.2,19000,Petrol,5,179
+Nissan,Pulsar,1.2L Turbocharged Inline-4,1197,,190,10.7,19000,Petrol,5,190
+Hyundai,Tiburon,2.0L Inline-4,2000,160,200,8.2,19000,Petrol,4,320
+Mazda,T2000,2.0L Inline-4,2000,110,170,12.5,19000,Petrol,2,160
+Mitsubishi,Minicab MiEV,Electric Motor,,64,100,,19000,Electric,2,196
+Nissan,Hardbody SUV,2.5L Inline-4,2498,,175,11,18500,Petrol,5,225
+Kia,Forte FE,2.0L 4-Cylinder,1999,147,190,9.2,18500,Petrol,5,179
+Nissan,Bluebird Sylphy,2.0L Inline-4,1997,,185,10.5,18500,Petrol,5,191
+Nissan,Stanza,1.8L Inline-4,1796,,175,11,18500,Petrol,5,170
+Mitsubishi,Lancer GLX,1.6L MIVEC,1600,115,190,11.5,18500,Petrol,5,154
+Mazda,Mazda2,1.5L 4-Cylinder,1500,108,180,10.2,18500,Petrol,5,142
+Mahindra,XUV500,"2.2L,4-CYLINDER,INLINE-4(I4)",2179,155,180,10.5,18400,Diesel,7,400
+Hyundai,ELANTRA,"2.0L,4-CYLINDER,INLINE-4(I4)",1999,147,200,9.5,18400,Petrol/Hybrid,5,250
+Toyota,YARIS,I4,1496,106,180,11.2,18400,Petrol,5,150
+Nissan,Prairie,2.0L Inline-4,1998,,175,11,18000,Petrol,5,170
+Nissan,Sylphy,1.8L Inline-4,1798,,190,9.6,18000,Petrol,5,174
+Nissan,Wingroad,1.8L Inline-4,1798,,175,10.8,18000,Petrol,5,168
+Nissan,Violet,1.8L Inline-4,1770,,155,13.8,18000,Petrol,5,130
+Hyundai,Venue,1.6L Inline-4,1600,121,180,9.5,18000,Petrol,5,240
+Hyundai,Ioniq,1.6L Inline-4,1600,139,160,8.5,18000,Hybrid/Electric,5,295
+Volkswagen,Vento,1.6L I4 Gas / Diesel,1598,108,186,11.7,18000,Petrol,5,153
+Nissan,Sunny California,1.6L Inline-4,1597,,170,11,18000,Petrol,5,140
+Kia,Rio 5-Door,1.6L 4-Cylinder,1591,120,180,10.3,18000,Petrol,5,151
+Kia,Rio 5-Door S,1.6L 4-Cylinder,1591,120,180,10.3,18000,Petrol,5,151
+Mitsubishi,Mirage G4,1.2L MIVEC,1200,78,170,12,18000,Petrol,5,100
+Volkswagen,Polo,1.0L Turbo I3 / 1.6L Diesel,,140,190,9.5,18000,Petrol,5,175
+Nissan,100NX,1.6L Inline-4,1597,,185,9.6,18000,Petrol,4,135
+Volkswagen,Up! Cabriolet,1.0L I3 Turbo,999,98,160,12.4,18000,Petrol,4,95
+Toyota,AYGO X,"1.0L,INLINE-3",998,71,160,14.8,18000,Petrol,4,93
+Chevrolet,Spark Activ,1.4L Inline-4 Gasoline,1400,98,180,11,17595,Petrol,5,127
+Nissan,Presea,1.8L Inline-4,1838,,170,11.5,17500,Petrol,5,161
+Mazda,Luce,1.8L Rotary,1800,135,180,10.5,17500,Petrol,5,170
+Kia,Rio S,1.6L 4-Cylinder,1591,120,180,10.3,17500,Petrol,5,151
+Mitsubishi,Colt,1.1L / 1.5L MIVEC,,112,180,,17500,Petrol,5,140
+Mazda,RX-3,1.2L Rotary,1200,110,180,8.9,17500,Petrol,4,145
+Kia,Rio,1.6L 4-Cylinder,1591,120,180,10.3,17000,Petrol,5,151
+Mitsubishi,Mirage,1.2L MIVEC,1200,78,170,12,17000,Petrol,5,100
+Chevrolet,Sonic,1.4L Turbo Inline-4 Gasoline,1400,138,190,8.5,16720,Petrol,5,200
+Nissan,Versa,1.6L Inline-4,1598,,180,10.4,16700,Petrol,5,154
+Tata Motors,Sumo Grande,2.2L Dicor Diesel,2179,118,140,15,16500,Diesel,7,250
+Mitsubishi,Dion,2.0L 4-Cylinder,2000,135,180,11.5,16500,Petrol,7,181
+Mazda,Protegé,1.8L Inline-4,1800,125,185,9,16500,Petrol,5,170
+Mazda,AZ-Offroad,1.3L Inline-4,1298,85,145,12,16500,Petrol,5,130
+Mazda,Bongo Truck,2.0L Inline-4,1998,120,130,15,16500,Petrol,2,150
+Mazda,Eunos Roadster,1.6L Inline-4,1590,116,180,9.5,16500,Petrol,2,140
+Mazda,T1500,1.5L Inline-4,1500,75,120,18,16500,Petrol,2,105
+Mahindra,SCORPIO,"2.2L,4-CYLINDER,INLINE-4(I4)",2179,140,160,11.2,16400,Diesel,7,280
+Mazda,323F,1.6L Inline-4,1600,105,180,10.5,16000,Petrol,5,145
+Mazda,Capella,1.6L Inline-4,1600,110,175,11.2,16000,Petrol,5,145
+Mazda,818,1.6L Inline-4,1600,100,170,12.5,16000,Petrol,5,130
+Mazda,Verisa,1.5L Inline-4,1500,113,170,11,16000,Petrol,5,140
+Nissan,AD Wagon,1.5L Inline-4,1498,,165,12.3,16000,Petrol,5,150
+Mitsubishi,Space Star,1.2L MIVEC,1200,78,170,12,16000,Petrol,5,100
+Mitsubishi,Attrage,1.2L MIVEC,1200,78,170,12.5,16000,Petrol,5,100
+Mitsubishi,Mirage ES,1.2L MIVEC,1200,78,170,12.5,16000,Petrol,5,100
+Nissan,Note,1.2L Inline-3 Hybrid,1198,,170,11.5,16000,Hybrid,5,150
+Mazda,Demio,1.5L SkyActiv-G,1500,108,180,10.2,15500,Petrol,5,142
+Nissan,Terrano,1.5L Inline-4 Diesel,1461,,168,13.5,15500,Diesel,5,248
+Nissan,Micra,1.0L Turbocharged Inline-3,999,,175,10.8,15500,Petrol,5,160
+Honda,CITY,I4,1497,119,180,10.2,15400,Petrol/Hybrid,5,145
+Hyundai,I20,"1.4L,4-CYLINDER,INLINE-4(I4)",1396,99,180,10.5,15400,Petrol/Hybrid,5,250
+Tata Motors,Sumo Gold,3.0L CR4 Diesel,2956,85,125,17.6,15000,Diesel,7,250
+Nissan,Almera Tino,1.8L Inline-4,1769,,180,12.5,15000,Petrol,5,160
+Hyundai,Accent,1.6L Inline-4,1600,120,180,9.8,15000,Petrol,5,151
+Nissan,Sunny,1.6L Inline-4,1598,,180,11,15000,Petrol,5,156
+Mazda,Etude,1.6L Inline-4,1598,105,170,10,15000,Petrol,5,135
+Volkswagen,Santana,1.5L I4 Gas,1498,110,190,12.9,15000,Petrol,5,145
+Volkswagen,Up!,Electric,,82,160,13,15000,Petrol,4,95
+Volkswagen,Lupo,1.4L I3 Gas / 1.2L Diesel I3,,68,170,14.3,15000,Petrol,4,120
+Mazda,Autozam AZ-1,657cc Turbocharged Inline-3,657,63,140,11,15000,Petrol,2,85
+Chevrolet,Spark,1.4L Inline-4 Gasoline,1400,98,180,10.7,14595,Petrol,5,127
+Nissan,Cube,1.8L Inline-4,1798,,175,10.6,14500,Petrol,5,171
+Nissan,Tiida,1.6L Inline-4,1598,,190,10.1,14500,Petrol,5,154
+Mazda,Persona,1.5L Inline-4,1497,92,160,13.5,14500,Petrol,5,130
+Nissan,Almera,1.0L Turbocharged Inline-3,999,,185,10.7,14500,Petrol,5,160
+Tata Motors,Tigor EV,Permanent Magnet Synchronous,,74,120,5.7,14500,Electric,5,114
+Maruti Suzuki,BREZZA,"1.5L,4-CYLINDER,INLINE(I4)",1462,103,180,11.5,14400,Petrol,5,200
+Chevrolet,Spark LS,1.4L Inline-4 Gasoline,1400,98,180,10.9,14395,Petrol,5,127
+Nissan,Terrano XL,1.6L Inline-4,1598,,165,12.5,14000,Petrol,5,145
+Mazda,Familia Sedan,1.5L Inline-4,1500,100,175,11,14000,Petrol,5,135
+Nissan,Cherry,1.4L Inline-4,1397,,145,14,14000,Petrol,5,110
+Volkswagen,Polo Vivo,1.4L I4 Gas / 1.6L I4 Gas,,95,170,10.8,14000,Petrol,5,132
+Tata Motors,Nexon,1.2L Turbo Petrol / 1.5L Diesel,,,180,10,14000,Petrol/Diesel,5,215
+Mazda,1500,1.5L Inline-4,1500,85,145,14,13500,Petrol,5,120
+Mazda,121,1.3L Inline-4,1300,70,155,13,13500,Petrol,5,110
+Ford,KA+,1.2L Petrol,1200,78,165,10.5,13500,Petrol,5,120
+Mitsubishi,i (Kei Car),0.7L 3-Cylinder,660,64,130,15.5,13500,Petrol,4,94
+Mitsubishi,eK X,0.7L 3-Cylinder,660,64,140,13.5,13500,Petrol,4,94
+Mazda,Porter,1.5L Inline-4,1497,95,130,14,13500,Petrol,2,130
+Nissan,Latio,1.5L Inline-4,1498,,175,11.5,13000,Petrol,5,139
+Hyundai,I10,"1.2L,4-CYLINDER,INLINE-4(I4)",1197,87,160,12.2,12400,Petrol,5,120
+Nissan,Lucino,1.6L Inline-4,1597,,185,10.5,12000,Petrol,5,150
+Tata Motors,Altroz iTurbo,1.2L Turbocharged Petrol,1199,110,180,10,12000,Petrol,5,140
+Nissan,March,1.2L Inline-3,1198,,170,13.7,12000,Petrol,5,106
+Nissan,Magnite,1.0L Turbocharged Inline-3,999,,160,13,12000,Petrol,5,160
+Volkswagen,Fox,1.2L I4 Gas / 1.4L I4 Gas,,65,148,17.5,12000,Petrol,5,93
+Tata Motors,Altroz CNG,1.2L Revotron Bi-Fuel,1199,86,165,12,11800,CNG/Petrol,5,113
+Maruti Suzuki,DZIRE,"1.2L,4-CYLINDER,INLINE-4(I4)",1197,83,160,12.2,11400,Petrol/Diesel,5,113
+Tata Motors,Altroz DCA,1.2L Revotron 3-cylinder Petrol,1199,86,170,12.5,11300,Petrol,5,113
+Mazda,Revue,1.3L Inline-4,1300,75,130,15.5,11000,Petrol,5,110
+Tata Motors,Tiago EV,Permanent Magnet Synchronous,,74,120,5.7,11000,Electric,5,114
+Mazda,1200,1.2L Inline-4,1200,60,130,16,11000,Petrol,4,90
+Mitsubishi,Toppo BJ,0.7L 3-Cylinder,660,52,130,15,11000,Petrol,4,60
+Mitsubishi,eK Space,0.7L 3-Cylinder,660,52,130,15,11000,Petrol,4,60
+Mitsubishi,Town Box,0.7L 3-Cylinder,660,48,120,16,11000,Petrol,4,60
+Mazda,Scrum Wagon,0.66L Inline-3,657,64,120,15.5,11000,Petrol,4,95
+Tata Motors,Punch,1.2L Revotron Petrol,1199,86,160,16,10500,Petrol,5,113
+Mazda,Carol,660cc Inline-3,660,63,140,15.5,10500,Petrol,4,90
+Maruti Suzuki,SWIFT,"1.2L,4-CYLINDER,INLINE-4(I4)",1197,83,160,12.2,10400,Petrol,5,113
+Tata Motors,Altroz,1.2L Revotron Petrol / 1.5L Diesel,,,170,12,10400,Petrol/Diesel,5,156
+Nissan,Rasheen,1.5L Inline-4,1497,,165,13,10000,Petrol,5,135
+Mazda,Scrum,660cc Inline-3,660,63,130,15,10000,Petrol,4,85
+Nissan,Clipper,660cc Inline-3,659,,110,18.5,10000,Petrol,4,62
+Tata Motors,Tigor,1.2L Revotron 3-cylinder Petrol,1199,86,170,13,9400,Petrol,5,113
+Tata Motors,Tiago NRG,1.2L Revotron 3-cylinder Petrol,1199,86,170,13.5,9200,Petrol,5,113
+Tata Motors,Manza,1.3L Quadrajet Diesel / 1.4L Petrol,,,160,14,9000,Petrol/Diesel,5,
+Mazda,Spiano,660cc Inline-3,660,54,130,16,9000,Petrol,4,80
+Mazda,Carol P360,0.36L Inline-2,360,26,85,35,9000,Petrol,4,45
+Tata Motors,Zest,1.3L Quadrajet Diesel / 1.2L Revotron Petrol,,,165,15,8700,Petrol/Diesel,5,
+Tata Motors,Indigo Marina,1.4L CR4 Diesel / 1.4L Petrol,1396,,150,17,8300,Petrol/Diesel,5,
+Tata Motors,Tiago,1.2L Revotron 3-cylinder Petrol,1199,86,170,13,8200,Petrol,5,113
+Tata Motors,Indigo GLX,1.4L MPFI Petrol,1396,85,160,15,7200,Petrol,5,115
+Tata Motors,Indigo LX,1.4L CR4 Diesel,1396,70,150,17,7000,Diesel,5,140
+Tata Motors,Indigo eCS,1.4L CR4 Diesel,1396,70,155,16.5,6500,Diesel,5,140
+Tata Motors,Indica eV2,1.4L CR4 Diesel,1396,70,155,16,6200,Diesel,5,140
+Tata Motors,Indica V2 Xeta,1.2L MPFI Petrol,1193,65,140,16,5000,Petrol,5,100
+Tata Motors,Nano GenX,624cc MPFI,624,37,105,29,4000,Petrol,4,51
+Toyota,Crown Signia,2.5L Hybrid I4,2487,240,180,7.6,,Petrol/Hybrid,5,239
+Jaguar Land Rover,Jaguar F-PACE,I4 Petrol / V6 Petrol,,,230,,,Petrol,5,
+Toyota,Corolla Cross,2.0L Gas / 2.0L Hybrid,,,190,,,Petrol/Hybrid,5,
+Toyota,C-HR+ ,1.8L / 2.0L Hybrid,,,180,,,Hybrid,5,
+Toyota,RAV4 (6th Gen),2.5L Hybrid / Plug-in Hybrid,,,200,,,Plug-in Hybrid,5,
+Mazda,RX-Vision Concept,Rotary SkyActiv-R,,,,,,Petrol/Hybrid,2,
