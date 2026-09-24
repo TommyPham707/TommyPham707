@@ -1,0 +1,545 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Tommy Pham — Aspiring Data Analyst</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&family=IBM+Plex+Mono:wght@400;500;600&display=swap');
+
+  :root {
+    --paper: #eef1f0;
+    --paper-line: #c9d2ce;
+    --ink: #1b2622;
+    --ink-soft: #4a5a54;
+    --teal: #1f6f6a;
+    --ochre: #b9762c;
+    --white: #ffffff;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  html { scroll-behavior: smooth; }
+
+  body {
+    background: var(--paper);
+    color: var(--ink);
+    font-family: 'Source Serif 4', Georgia, serif;
+    line-height: 1.55;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .mono {
+    font-family: 'IBM Plex Mono', 'Courier New', monospace;
+  }
+
+  .wrap {
+    max-width: 880px;
+    margin: 0 auto;
+    padding: 0 32px;
+  }
+
+  /* ---------- Header / ledger top bar ---------- */
+  .ledger-bar {
+    border-bottom: 1px solid var(--paper-line);
+    padding: 14px 0;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 12px;
+    color: var(--ink-soft);
+    display: flex;
+    justify-content: space-between;
+  }
+
+  /* ---------- Hero ---------- */
+  .hero {
+    padding: 72px 0 56px;
+    border-bottom: 1px solid var(--paper-line);
+  }
+
+  .hero h1 {
+    font-size: 52px;
+    font-weight: 600;
+    letter-spacing: -0.01em;
+    line-height: 1.1;
+  }
+
+  .hero .role {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 15px;
+    color: var(--teal);
+    margin-top: 14px;
+    letter-spacing: 0.02em;
+  }
+
+  .hero p.pitch {
+    max-width: 60ch;
+    margin-top: 22px;
+    font-size: 19px;
+    color: var(--ink-soft);
+  }
+
+  .hero-stats {
+    display: flex;
+    gap: 40px;
+    margin-top: 40px;
+    flex-wrap: wrap;
+  }
+
+  .stat .n {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 28px;
+    font-weight: 600;
+    color: var(--ink);
+  }
+
+  .stat .l {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 12px;
+    color: var(--ink-soft);
+    margin-top: 2px;
+  }
+
+  /* ---------- Section framing ---------- */
+  section {
+    padding: 56px 0;
+    border-bottom: 1px solid var(--paper-line);
+  }
+
+  section:last-of-type { border-bottom: none; }
+
+  .section-head {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    margin-bottom: 32px;
+  }
+
+  .section-head h2 {
+    font-size: 28px;
+    font-weight: 600;
+  }
+
+  .section-head .idx {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 12px;
+    color: var(--ink-soft);
+  }
+
+  /* ---------- Skills as a ledger table ---------- */
+  .skill-row {
+    display: grid;
+    grid-template-columns: 160px 1fr;
+    gap: 20px;
+    padding: 14px 0;
+    border-top: 1px solid var(--paper-line);
+  }
+
+  .skill-row:last-child { border-bottom: 1px solid var(--paper-line); }
+
+  .skill-row .cat {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 12px;
+    color: var(--ink-soft);
+    padding-top: 3px;
+  }
+
+  .skill-row .items {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px 10px;
+  }
+
+  .pill {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 13px;
+    padding: 4px 10px;
+    border: 1px solid var(--paper-line);
+    color: var(--ink);
+    background: var(--white);
+  }
+
+  .pill.pro { border-color: var(--teal); color: var(--teal); }
+
+  /* ---------- Featured project ---------- */
+  .project {
+    background: var(--white);
+    border: 1px solid var(--paper-line);
+  }
+
+  .project-top {
+    padding: 32px 32px 24px;
+    border-bottom: 1px solid var(--paper-line);
+  }
+
+  .project-top .kicker {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 12px;
+    color: var(--ochre);
+    letter-spacing: 0.02em;
+  }
+
+  .project-top h3 {
+    font-size: 26px;
+    font-weight: 600;
+    margin-top: 8px;
+  }
+
+  .project-top p {
+    color: var(--ink-soft);
+    margin-top: 12px;
+    max-width: 65ch;
+  }
+
+  .pipeline {
+    display: flex;
+    border-bottom: 1px solid var(--paper-line);
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 13px;
+  }
+
+  .pipeline .stage {
+    flex: 1;
+    padding: 16px 20px;
+    border-right: 1px solid var(--paper-line);
+  }
+
+  .pipeline .stage:last-child { border-right: none; }
+
+  .pipeline .stage .num {
+    color: var(--ochre);
+  }
+
+  .pipeline .stage .tool {
+    display: block;
+    font-weight: 600;
+    color: var(--ink);
+    margin-top: 4px;
+  }
+
+  .findings {
+    padding: 28px 32px;
+  }
+
+  .findings h4 {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 12px;
+    color: var(--ink-soft);
+    margin-bottom: 16px;
+  }
+
+  .finding {
+    padding: 14px 0;
+    border-top: 1px solid var(--paper-line);
+    display: grid;
+    grid-template-columns: 100px 1fr;
+    gap: 20px;
+  }
+
+  .finding:first-of-type { border-top: none; }
+
+  .finding .metric {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 15px;
+    font-weight: 600;
+    color: var(--teal);
+  }
+
+  .finding p {
+    color: var(--ink-soft);
+    font-size: 15px;
+  }
+
+  /* simple bar chart, drawn from real distribution shape */
+  .chart-block {
+    padding: 28px 32px;
+    border-top: 1px solid var(--paper-line);
+  }
+
+  .chart-block .cap {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 12px;
+    color: var(--ink-soft);
+    margin-bottom: 16px;
+  }
+
+  .bars {
+    display: flex;
+    align-items: flex-end;
+    gap: 4px;
+    height: 90px;
+  }
+
+  .bars span {
+    flex: 1;
+    background: var(--teal);
+    opacity: 0.85;
+  }
+
+  .chart-caption {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px;
+    color: var(--ink-soft);
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .links-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    padding: 24px 32px 32px;
+  }
+
+  .links-row a {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 13px;
+    text-decoration: none;
+    color: var(--ink);
+    border: 1px solid var(--ink);
+    padding: 8px 14px;
+    transition: background 0.15s ease, color 0.15s ease;
+  }
+
+  .links-row a:hover {
+    background: var(--ink);
+    color: var(--white);
+  }
+
+  /* ---------- Screenshots ---------- */
+  .shots {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+    margin-top: 32px;
+  }
+
+  .shots figure {
+    border: 1px solid var(--paper-line);
+    background: var(--white);
+  }
+
+  .shots img {
+    width: 100%;
+    display: block;
+  }
+
+  .shots figcaption {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 12px;
+    color: var(--ink-soft);
+    padding: 10px 14px;
+    border-top: 1px solid var(--paper-line);
+  }
+
+  @media (max-width: 640px) {
+    .hero h1 { font-size: 36px; }
+    .pipeline { flex-direction: column; }
+    .pipeline .stage { border-right: none; border-bottom: 1px solid var(--paper-line); }
+    .finding { grid-template-columns: 1fr; }
+    .shots { grid-template-columns: 1fr; }
+    .skill-row { grid-template-columns: 1fr; }
+  }
+
+  footer {
+    padding: 32px 0 48px;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 12px;
+    color: var(--ink-soft);
+  }
+</style>
+</head>
+<body>
+
+  <div class="ledger-bar">
+    <div class="wrap" style="display:flex; justify-content:space-between; width:100%;">
+      <span>TOMMY PHAM</span>
+      <span>CORPUS CHRISTI, TX</span>
+    </div>
+  </div>
+
+  <header class="hero">
+    <div class="wrap">
+      <h1>Tommy Pham</h1>
+      <div class="role">Aspiring Data Analyst</div>
+      <p class="pitch">
+        I turn messy, real-world data into decisions — cleaning it in Excel,
+        querying it in SQL, exploring it in Python, and putting it in front
+        of people through Power BI dashboards they can actually use.
+      </p>
+      <div class="hero-stats">
+        <div class="stat">
+          <div class="n">4</div>
+          <div class="l">TOOLS, ONE PIPELINE</div>
+        </div>
+        <div class="stat">
+          <div class="n">1,202</div>
+          <div class="l">ROWS CLEANED &amp; VERIFIED</div>
+        </div>
+        <div class="stat">
+          <div class="n">6</div>
+          <div class="l">CERTIFICATIONS</div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <section id="skills">
+    <div class="wrap">
+      <div class="section-head">
+        <h2>Skills</h2>
+        <span class="idx">01</span>
+      </div>
+
+      <div class="skill-row">
+        <div class="cat">PROFESSIONAL<br>USE</div>
+        <div class="items">
+          <span class="pill pro">Excel</span>
+          <span class="pill pro">Invoice Reconciliation</span>
+          <span class="pill pro">Monthly Reporting</span>
+          <span class="pill pro">Data Logging Design</span>
+        </div>
+      </div>
+
+      <div class="skill-row">
+        <div class="cat">COURSEWORK &amp;<br>SELF-PRACTICED</div>
+        <div class="items">
+          <span class="pill">SQL</span>
+          <span class="pill">Python (pandas, matplotlib)</span>
+          <span class="pill">Power BI / DAX</span>
+          <span class="pill">Power Query</span>
+          <span class="pill">Tableau</span>
+          <span class="pill">SAP Analytics Cloud</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="project">
+    <div class="wrap">
+      <div class="section-head">
+        <h2>Featured Project</h2>
+        <span class="idx">02</span>
+      </div>
+
+      <div class="project">
+        <div class="project-top">
+          <div class="kicker">END-TO-END ANALYTICS PIPELINE</div>
+          <h3>Car Market Analysis</h3>
+          <p>
+            A single dataset of 1,200+ global vehicles, taken from raw and
+            inconsistent through four tools in sequence — answering three
+            questions about market segmentation, performance, and value.
+          </p>
+        </div>
+
+        <div class="pipeline">
+          <div class="stage">
+            <span class="num">01</span>
+            <span class="tool">Excel</span>
+            Cleaned mixed types, range values, and 20+ inconsistent fuel
+            labels down to 12.
+          </div>
+          <div class="stage">
+            <span class="num">02</span>
+            <span class="tool">SQL Server</span>
+            Joins, CTEs, and window functions to answer each business
+            question directly.
+          </div>
+          <div class="stage">
+            <span class="num">03</span>
+            <span class="tool">Python</span>
+            Validated the pipeline end to end and surfaced the outliers a
+            single query would miss.
+          </div>
+          <div class="stage">
+            <span class="num">04</span>
+            <span class="tool">Power BI</span>
+            A four-page interactive dashboard on a proper star-schema
+            model.
+          </div>
+        </div>
+
+        <div class="chart-block">
+          <div class="cap">PRICE DISTRIBUTION — WHY MEDIAN BEATS AVERAGE HERE</div>
+          <div class="bars">
+            <span style="height:16%"></span>
+            <span style="height:48%"></span>
+            <span style="height:100%"></span>
+            <span style="height:88%"></span>
+            <span style="height:64%"></span>
+            <span style="height:42%"></span>
+            <span style="height:28%"></span>
+            <span style="height:18%"></span>
+            <span style="height:12%"></span>
+            <span style="height:8%"></span>
+            <span style="height:5%"></span>
+            <span style="height:3%"></span>
+            <span style="height:2%"></span>
+            <span style="height:1%"></span>
+            <span style="height:1%; background: var(--ochre); opacity:1;"></span>
+          </div>
+          <div class="chart-caption">
+            <span>$4K</span>
+            <span>most cars sit between $25K–$50K</span>
+            <span>$18M</span>
+          </div>
+        </div>
+
+        <div class="findings">
+          <h4>KEY FINDINGS</h4>
+          <div class="finding">
+            <div class="metric">$139.6K vs $42.6K</div>
+            <p>The dataset's average price is more than 3x its median — a
+            handful of hypercars skew every mean-based comparison.</p>
+          </div>
+          <div class="finding">
+            <div class="metric">~2x</div>
+            <p>Electric vehicles deliver roughly double the horsepower per
+            dollar of petrol vehicles.</p>
+          </div>
+          <div class="finding">
+            <div class="metric">1 error found</div>
+            <p>A McLaren mislabeled as BMW survived Excel, SQL, and Python
+            — caught only once brand-level results stopped lining up in
+            Power BI.</p>
+          </div>
+        </div>
+
+        <div class="shots">
+          <figure>
+            <img src="images/cars-project/histogram.png" alt="Car price distribution histogram">
+            <figcaption>Price distribution, before &amp; after zooming past the outliers</figcaption>
+          </figure>
+          <figure>
+            <img src="images/cars-project/scatter.png" alt="Horsepower vs price scatter plot">
+            <figcaption>Horsepower vs. price, Tesla breaking the trend line</figcaption>
+          </figure>
+          <figure>
+            <img src="images/cars-project/dashboard-overview.png" alt="Power BI overview dashboard">
+            <figcaption>Power BI — Overview page</figcaption>
+          </figure>
+          <figure>
+            <img src="images/cars-project/dashboard-market.png" alt="Power BI market landscape dashboard">
+            <figcaption>Power BI — Market Landscape page</figcaption>
+          </figure>
+        </div>
+
+        <div class="links-row">
+          <a href="Claudeproject.ipynb">Python Notebook</a>
+          <a href="SQLCarBusinessResult.sql">SQL Queries</a>
+          <a href="CarsPowerBI.pbix">Power BI File</a>
+          <a href="CarRevised.csv">Cleaned Dataset</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <div class="wrap">
+      Built by Tommy Pham · Corpus Christi, TX
+    </div>
+  </footer>
+
+</body>
+</html>
